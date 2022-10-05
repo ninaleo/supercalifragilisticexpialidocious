@@ -1,4 +1,6 @@
-# SPRINTTIKOHTAINEN AJANKÄYTTÖ
+# SPRINTTIKOHTAINEN AJANKÄYTTÖ JA TUNTIKIRJAUKSET
+
+Työajanseurantaa projektin alusta alkaen löytyy excelistä tästä
 
 | | |
 |:-:|:-:|
