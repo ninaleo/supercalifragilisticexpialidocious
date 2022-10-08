@@ -4,7 +4,8 @@
 
 **3.10.2022**
   *  Loin Gitlabiin harjoittelulle projektin (https://gitlab.labranet.jamk.fi/my-awesome-harjoittelu/Syksy2022), mm. selkeyttääkseni etenemistä ja ajankäyttöä. 
-  * Loin myös oman Tekstiili tiimin Teamsiin minun ja Elenan projektia varten, sovimme viestintä käytänteistä.   Omat tuntikirjaus vaihtoehtoinani oli tmetric.com, toggl.com ja  Excel. Näistä valtsin Excelin, koska teen kirjausta pääasiassa itselleni.
+  * Loin Tekstiili tiimin Teamsiin minun ja Elenan projektia varten, sovimme viestintä käytänteistä.   
+  * Omat tuntikirjaus vaihtoehtoinani oli tmetric.com, toggl.com ja  Excel. Näistä valtsin Excelin, koska teen kirjausta pääasiassa itselleni.
 
 **4.10.2022** 
   *  Päivitin Gitlabia ja sinne sprinttejä. 
