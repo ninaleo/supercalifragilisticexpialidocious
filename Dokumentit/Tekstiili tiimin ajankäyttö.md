@@ -4,4 +4,4 @@
 ## Elenan suunnitelma tiimin ajankäytöstä
 ![](Kuvat/CanvaSprintitTekstiili.png)
 
-* [Excel taulukkoon](osoite tänne)
+* [Esimerkki elävästä elämästä](https://virkailija.opintopolku.fi/koodisto-service/swagger/index.html)
