@@ -34,5 +34,5 @@
  * 30min kokous Teams Tekstiilitiimillä
 * Git 
 * Ilmottautuminen Ideasta yritykseksi-valmennukseen
-* 1h [Spinnova webinaari](https://spinnovagroup.com/wp-content/uploads/2021/06/spinnova_yhtioesittely_video_with_embedded_slides_2-60c84855e9622.mp4)
+* Tunnin mittainen [Spinnova webinaari](https://spinnovagroup.com/wp-content/uploads/2021/06/spinnova_yhtioesittely_video_with_embedded_slides_2-60c84855e9622.mp4)
 * Ajatusten ja kysymysten kirjaaminen webinaarista 
