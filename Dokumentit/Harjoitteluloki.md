@@ -25,12 +25,12 @@
  * Kävin läpi kurssitarjontaa
  * Päivitin haastattelukysymykset tiimin Teamsiin sekä sen päivämerkinnät.
 
- **10.10.2022
+ **10.10.2022**
  * Aamulla 1h Zoomissa opiskelukavereiden ja Minnan kanssa
  * Git päivitystä
  * Tutustumista kurssitarjontaan ja niiden valinnat
 
- **11.10.2022
+ **11.10.2022**
  * 30min kokous Teams Tekstiilitiimillä
 * Git 
 * Ilmottautuminen Ideasta yritykseksi-valmennukseen
