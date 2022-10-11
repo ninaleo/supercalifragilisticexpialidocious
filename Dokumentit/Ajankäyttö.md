@@ -4,7 +4,7 @@ Työajanseurantaa projektin alusta alkaen löytyy excelistä tästä
 
 | | |
 |:-:|:-:|
-| SPRINT 00 | 3.10-7.20.2022 |
+| [SPRINT 00](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/2#tab-issues)| 3.10-7.20.2022 |
 | SPRINT 01 | 10.10-14.10.2022 |
 | SPRINT 02 | 17.10-21.10.2022 |
 | SPRINT 03 | 24.10-28.10.2022 |
