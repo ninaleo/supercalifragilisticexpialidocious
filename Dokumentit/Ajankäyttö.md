@@ -2,6 +2,8 @@
 
 ## Työajanseuranta projektin alusta alkaen löytyy excelistä [tästä](https://jamkstudent-my.sharepoint.com/:x:/g/personal/ab5160_student_jamk_fi/EZrMJxzfa3hPrGiBRfMpFmcBilxwiZDvS6QMZGCqMPjMZQ?e=PlMJqJ)
 
+Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pääset tutustumaan tarkemmin sen sisältöön. Päivitän sisältöä aikataulujen tarkentuessa.
+
 | | |
 |:-:|:-:|
 | [SPRINT 00](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/2#tab-issues)| 3.10-7.20.2022 |
