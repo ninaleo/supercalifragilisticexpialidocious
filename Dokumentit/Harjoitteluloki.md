@@ -3,7 +3,7 @@
 ## Mitä viimeaikoina on tapahtunut?
 
 **3.10.2022**
-  *  Loin Gitlabiin harjoittelulle projektin (https://gitlab.labranet.jamk.fi/my-awesome-harjoittelu/Syksy2022), mm. selkeyttääkseni etenemistä ja ajankäyttöä. 
+  *  Loin Gitlabiin harjoittelulle [projektin](https://gitlab.labranet.jamk.fi/my-awesome-harjoittelu/Syksy2022), mm. selkeyttääkseni etenemistä ja ajankäyttöä. 
   * Loin Tekstiili tiimin Teamsiin minun ja Elenan projektia varten, sovimme viestintä käytänteistä.   
   * Omat tuntikirjaus vaihtoehtoinani oli tmetric.com, toggl.com ja  Excel. Näistä valtsin Excelin, koska teen kirjausta pääasiassa itselleni.
 
@@ -34,5 +34,5 @@
  * 30min kokous Teams Tekstiilitiimillä
 * Git 
 * Ilmottautuminen Ideasta yritykseksi-valmennukseen
-* 1h [Spinnova webinaari] (https://spinnovagroup.com/wp-content/uploads/2021/06/spinnova_yhtioesittely_video_with_embedded_slides_2-60c84855e9622.mp4)
+* 1h [Spinnova webinaari](https://spinnovagroup.com/wp-content/uploads/2021/06/spinnova_yhtioesittely_video_with_embedded_slides_2-60c84855e9622.mp4)
 * Ajatusten ja kysymysten kirjaaminen webinaarista 
