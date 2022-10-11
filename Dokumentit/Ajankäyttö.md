@@ -10,13 +10,13 @@ Työajanseurantaa projektin alusta alkaen löytyy excelistä tästä
 | [SPRINT 03](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/5#tab-issues) | 24.10-28.10.2022 |
 | [SPRINT 04](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/6#tab-issues) | 31.10-4.10.2022 |
 | [SPRINT 05](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/7#tab-issues) | 7.11-11.11.2022 |
-| SPRINT 06 | 14.11-18.11.2022 |
-| SPRINT 07 | 21.11-25.12.2022 |
-| SPRINT 08 | 28.12-2.12.2022 |
-| SPRINT 09 | 5.12-9.12.2022 |
-| SPRINT 10 | 12.12-16.12.2022 |
-| SPRINT 11 | 19.12-23.12.2022 |
-| SPRINT 12 | 26.12-27.12.2022 |
+| [SPRINT 06](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/8#tab-issues) | 14.11-18.11.2022 |
+| [SPRINT 07](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/9#tab-issues)| 21.11-25.12.2022 |
+| [SPRINT 08](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/10#tab-issues) | 28.12-2.12.2022 |
+| [SPRINT 09](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/11#tab-issues) | 5.12-9.12.2022 |
+| [SPRINT 10](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/12#tab-issues) | 12.12-16.12.2022 |
+| [SPRINT 11](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/13#tab-issues) | 19.12-23.12.2022 |
+| [SPRINT 12](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/14#tab-issues) | 26.12-27.12.2022 |
 
 ## SPRINT 00
 ## SPRINT 01
