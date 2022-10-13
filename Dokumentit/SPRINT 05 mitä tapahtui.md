@@ -2,4 +2,4 @@
 
 ## Mitä viimeaikoina on tapahtunut? 
 
-**xx.xx.2022**
+**07.11.2022**
