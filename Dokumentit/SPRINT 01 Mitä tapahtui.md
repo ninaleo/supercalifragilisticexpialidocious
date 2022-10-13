@@ -1,6 +1,6 @@
 # Projektiloki SPRINT 01
 
-## Mitä viimeaikoina on tapahtunut? 
+## mitä viimeaikoina on tapahtunut? 
 
 **10.10.2022**
  * Aamulla 1h Zoomissa opiskelukavereiden ja Minnan kanssa
