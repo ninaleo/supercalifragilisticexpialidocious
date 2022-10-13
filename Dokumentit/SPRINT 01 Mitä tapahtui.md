@@ -1,4 +1,8 @@
- **10.10.2022**
+# Projektiloki SPRINT 01
+
+## Mitä viimeaikoina on tapahtunut? 
+
+**10.10.2022**
  * Aamulla 1h Zoomissa opiskelukavereiden ja Minnan kanssa
  * Git päivitystä
  * Tutustumista kurssitarjontaan ja niiden valinnat
