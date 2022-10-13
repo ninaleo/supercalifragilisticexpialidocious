@@ -2,4 +2,5 @@
 
 ## Mitä viimeaikoina on tapahtunut? 
 
-**xx.10.2022**
+**??.10.2022**
+
