@@ -6,8 +6,8 @@ Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pä�
 
 | | |
 |:-:|:-:|
-| [SPRINT 00](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/2#tab-issues)| 3.10-7.20.2022 |
-| [SPRINT 01](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/3#tab-issues) | 10.10-14.10.2022 |
+| [SPRINT 00](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/2#tab-issues)| [3.10-7.20.2022]() |
+| [SPRINT 01](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/3#tab-issues) | [10.10-14.10.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2001%20Mit%C3%A4%20tapahtui.md) |
 | [SPRINT 02](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/4#tab-issues) | 17.10-21.10.2022 |
 | [SPRINT 03](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/5#tab-issues) | 24.10-28.10.2022 |
 | [SPRINT 04](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/6#tab-issues) | 31.10-4.10.2022 |
