@@ -25,3 +25,4 @@
 * Mooc Palvelumuotoilukurssia
 * Kokous Tekstiilitiimillä
 * Tekstiilitiimin tietojen hakua
+* Git päivitys ja "päiväkirjamerkintöjä"
