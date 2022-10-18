@@ -18,10 +18,10 @@
 * Mooc Palvelumuotoilukurssin aloittaminen
 * Kirjallisia tehtäviä
 
-**13.10.2022*
+**13.10.2022**
 * Mooc Palvelumuotoilukurssia
 
-**14.10.2022*
+**14.10.2022**
 * Mooc Palvelumuotoilukurssia
 * Kokous Tekstiilitiimillä
 * Tekstiilitiimin tietojen hakua
