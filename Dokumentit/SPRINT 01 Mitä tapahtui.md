@@ -13,3 +13,15 @@
 * Ilmottautuminen Ideasta yritykseksi-valmennukseen
 * Tunnin mittainen [Spinnova webinaari](https://spinnovagroup.com/wp-content/uploads/2021/06/spinnova_yhtioesittely_video_with_embedded_slides_2-60c84855e9622.mp4)
 * Ajatusten ja kysymysten kirjaaminen webinaarista 
+
+**12.10.2022**
+* Mooc Palvelumuotoilukurssin aloittaminen
+* Kirjallisia tehtäviä
+
+**13.10.2022*
+* Mooc Palvelumuotoilukurssia
+
+**14.10.2022*
+* Mooc Palvelumuotoilukurssia
+* Kokous Tekstiilitiimillä
+* Tekstiilitiimin tietojen hakua
