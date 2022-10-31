@@ -6,7 +6,7 @@
 * Opiskelijoiden yhteinen Zoom-tapaaminen Minnan johdolla n 1h   
 * Mooc Palvelumuotoilukurssin kirimistä ajantasalle, tein tätä koko loppupäivän  
 * Illalla päivitin Gitlabia, Issuet sprintille 04   
-* Harjoittelujakson projektisivun täydennystä 
+* Harjoittelujakson [projektisivun](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/) täydennystä.   
 
 **1.11.2022**   
 * Tekstiilitiimin tapaaminen Teamsin kautta   
