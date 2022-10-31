@@ -13,15 +13,15 @@
 * Heiko olo, päätteellä työskentey hankalaa, koska silmiin sattuu ja koko vasen puoli päästä on kipeä. 
 
 **19.10.2022**   
-* Mooc palvelumuotoilu   
+* Mooc palvelumuotoilukurssia    
 * Heikko olo ja työskentely päätteellä kamalaa.   
 
 **20.10.2022**   
-* Mooc palvelumuotoilu  
+* Mooc palvelumuotoilukurssia  
 * Heikko olo, samat rajoitteet kuten aiemmin.
 
 **21.10.2022**   
-* Mooc palvelumuotoilu   
+* Mooc palvelumuotoilukurssia   
 * Tekstiilitiimin kokous 1h 15min   
 * Olo ei ole parantunut koko viikon aikana ja olen pahasti jäljessä aikataulusta.
 
