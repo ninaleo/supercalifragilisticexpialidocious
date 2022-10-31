@@ -9,7 +9,12 @@
 * Gitlab päivitystä, Issuet Sprintille 02
 
 **18.10.2022**
-* Mooc Palvelumuotoilukurssia
+* Mooc Palvelumuotoilukurssia   
+
+**19.10.2022**   
+**20.10.2022**   
+**21.10.2022**   
+
 
 
 
