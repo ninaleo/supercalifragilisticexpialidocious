@@ -6,5 +6,5 @@
 **25.10.2022**   
 **26.10.2022**   
 **27.10.2022**   
-**28.10.2022**   
+**28.10.2022**   Yritystehdas- Ideasta yritykseksi startti. Omien ideoioden esittely.
 
