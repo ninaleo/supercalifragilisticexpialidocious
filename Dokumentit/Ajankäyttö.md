@@ -5,7 +5,7 @@
 Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pääset tutustumaan tarkemmin sen sisältöön.   
 "Aikataulu"-kohdassa viikkosuunnitelma kyseiselle ajankohdalle.   
 "Mitä tein"-kohdassa kerron lyhyesti päivän päätteeksi mihin aika kului.   
-"Mitä opin"-kohdassa kerron mitä tuona päivänä opin.   
+"Mitä opin"-kohdassa kerron mitä kyseisinä päivinä olen oppinut.   
 Päivitän sisältöä aikataulujen tarkentuessa.
 
 | | | | 
