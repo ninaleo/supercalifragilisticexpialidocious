@@ -10,13 +10,13 @@
 
 **1.11.2022**   
 * Tekstiilitiimin tapaaminen Teamsin kautta   
-* Mooc Palvelumuotoilukurssin osat 6,7 ja 8.
+* Mooc Palvelumuotoilukurssin osa 6
 
 **2.11.2022**  
-Liikeideaesittely perjantaita varten kirjallisessa muodossa.   
+* Mooc Palvelumuotoilukurssin osa 7 ja 8. Kurssi suoritettu ja todistus 2op saatu
 
 **3.11.2022**  
-* Neuvottelutaidot- kurssin aloitus 
+*  Liikeidean kirjaaminen ja palautus perjantain Ideasta yritykseksi valmennukseen
 
 **4.11.2022**   
 * Ideasta yritykseksi valmennus 8.30-12.00
