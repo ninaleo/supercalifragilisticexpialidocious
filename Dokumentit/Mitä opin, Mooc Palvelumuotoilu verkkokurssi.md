@@ -22,7 +22,7 @@ on tärkeää, että eri ammattialat saadaan mukaan lokeroistaan saman pöydän 
 Palvelumuotoilua voidaankin pitää toisaalta raja-aitoja purkavana voimana, mutta samaan aikaan se voi toimia näkymättömänä liimana ja yhteisen keskustelun herättäjänä eri ammattialojen välillä. Se tarjoaa eri ammattikuntien yhteiskäyttöön hyödyllisiä työkaluja ja metodeja.   
 Palvelumuotoilua voidaan myös käyttää yrityksen strategisella tasolla. Tällöin puhutaan palvelumuotoilusta organisaation ja johtamisen näkökulmasta   
 
-Palvelumuotoilutoimisto 31 Volts:
+Palvelumuotoilutoimisto 31 Volts:   
 _”Jos kahdessa vierekkäisessä kahvilassa myydään samaa kahvia samaan hintaan, palvelumuotoilun ansiosta valitset niistä toisen ja palaat sinne vielä uudestaan ja kerrot siitä myös ystävillesi.”_   
 Palvelumuotoilu voidaan ajatella ajattelutapana, prosessina, työkalupakkina ja käytännön tekemisenä, mutta ennen kaikkea sen päämääränä on parantaa niin loppukäyttäjien kuin palveluun liittyvien työtekijöiden sekä muiden palvelun kanssa tekemisissä olevien sidosryhmien kokemuksia.   
-Esim. Miten päädyit juuri tähän ravintolaan, miten valitsit istumapaikkasi, miten tilaat ruoan, mistä saat tietoa ruokein sisältämistä allergeeneista, kuka otti vastaan tilauksen, miten tilaus päätyi keittiöön, ketkä valmistavat ruoan ja mistä tarvittavat ruoka-ainekset ovat keittiöön päätyneet ja 
+_Esim. Miten päädyit juuri tähän ravintolaan, miten valitsit istumapaikkasi, miten tilaat ruoan, mistä saat tietoa ruokein sisältämistä allergeeneista, kuka otti vastaan tilauksen, miten tilaus päätyi keittiöön, ketkä valmistavat ruoan ja mistä tarvittavat ruoka-ainekset ovat keittiöön päätyneet ja kuka ne on ottanut vastaan, kuka huolehtii ruoan tuomisesta ruokasaliin, kuka on kanssasi syömässä, onko koirasi mukana ravintolassa tai ravintolan ulkopuolella, kuka ottaa maksun ruokailun päätteeksi, mitä tapahtuu ruokailun jälkeen?_
