@@ -13,7 +13,8 @@
 * Mooc Palvelumuotoilukurssin osa 6
 
 **2.11.2022**  
-* Mooc Palvelumuotoilukurssin osa 7 ja 8. Kurssi suoritettu ja todistus 2op saatu
+* Mooc Palvelumuotoilukurssin osa 7 ja 8. Kurssi suoritettu ja todistus 2op saatu   
+* Gitlab päivitystä (mm 39 sivua mitä opin Mooc Palvelumuotoilukurssin aikana)
 
 **3.11.2022**  
 *  Liikeidean kirjaaminen ja palautus perjantain Ideasta yritykseksi valmennukseen
