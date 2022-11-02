@@ -1,11 +1,11 @@
 # Mitä opin, Mooc palvelumuotoilukurssi
-###Kirjoitusvirheitä on varmasti paljon, tämä johtuu siitä, että minulle tärkeää tietoa tuli paljon ja nopeasti.)
-###12.10.2022
-##1.0 Johdanto
+### Kirjoitusvirheitä on varmasti paljon, tämä johtuu siitä, että minulle tärkeää tietoa tuli paljon ja nopeasti.)
+### 12.10.2022
+## 1.0 Johdanto
 -Tarkastelu ikkunalasimetaforan kautta, hyvä esimerkki siitä, kuinka käyttäjän/asiakkaan ja palveluntarjoajan näkemys laadukkaasta palvelusta eroaa (8% vs. 80%)
 [Päivän linkit](https://www.bain.com/insights/keeping-up-with-your-customers)
-###13.10.2022 
-##2.1  Onko palvelu + muotoilu = palvelumuotoilu?
+### 13.10.2022 
+## 2.1  Onko palvelu + muotoilu = palvelumuotoilu?
 Palvelut. Yksinkertaisesti, jos vuorovaikutusta ei tapahdu sinun ja palveluntuottajan välillä, ei myöskään palvelua ole olemassa. Kolmas merkittävä seikka palveluita tarkastellessa on, että ne ovat aikaan sidottuja. Palveluita ei voida säilöä varastoihin odottamaan myyntihetkeä, vaan palvelu tapahtuu sillä nimenomaisella hetkellä, kun vuorovaikutus tapahtuu sinun ja palveluntuottajan välillä. Kiteyttäen voidaan todeta, että palvelut ovat aineettomia ja ajassa tapahtuvia vuorovaikutteisia prosesseja, jotka syntyvät vuorovaikutuksessa sinun ja palveluntuottajan välillä ja tuottavat lähtökohtaisesti sinulle arvoa.   
 
 Palvelumuotoilun yksi tehtävä on pyrkiä tuomaan suunnittelun kohde eli palvelu näkyväksi. Näin siitä voidaan keskustella, sitä voidaan kehittää ja siitä voidaan luoda parempia palveluita, jotka tuottavat korkeampaa arvoa sekä käyttäjille että yritykselle itselleen.
