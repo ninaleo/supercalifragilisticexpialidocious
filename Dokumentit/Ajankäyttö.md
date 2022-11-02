@@ -3,9 +3,9 @@
 ## Ajantasainen työajanseuranta projektin alusta alkaen löytyy excelistä [tästä](https://jamkstudent-my.sharepoint.com/:x:/g/personal/ab5160_student_jamk_fi/EZrMJxzfa3hPrGiBRfMpFmcBilxwiZDvS6QMZGCqMPjMZQ?e=PlMJqJ)
 
 Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pääset tutustumaan tarkemmin sen sisältöön.   
-## "Aikataulu"-kohdassa viikkosuunnitelma kyseiselle ajankohdalle.   
-## "Mitä tein"-kohdassa kerron lyhyesti päivän päätteeksi mihin aika kului.   
-## "Mitä opin"-kohdassa kerron mitä kyseisinä päivinä olen oppinut.   
+* "Aikataulu"-kohdassa viikkosuunnitelma kyseiselle ajankohdalle.   
+* "Mitä tein"-kohdassa kerron lyhyesti päivän päätteeksi mihin aika kului.   
+* "Mitä opin"-kohdassa kerron mitä kyseisinä päivinä olen oppinut.   
 
 Päivitän sisältöä jatkuvasti.
 
