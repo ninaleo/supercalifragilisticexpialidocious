@@ -1,4 +1,4 @@
-﻿**Mitä opin, Mooc palvelumuotoilukurssi**
+**Mitä opin, Mooc palvelumuotoilukurssi**
 
 (Kirjoitusvirheitä on varmasti paljon, tämä johtuu siitä, että minulle tärkeää tietoa tuli paljon ja nopeasti.)
 
@@ -101,18 +101,18 @@ Palvelumuotoilu on ajattelutapapa, työprosessi ja työkalupakki
 - **Päivän linkki**: muotoiluajattelun soveltamisesta erilaisissa tilanteissa, <https://thisisdesignthinking.net/design-thinking-stories/>
 # **2.4 Pohjoisen näkökulma palvelumuotoiluun**
 # Oma huomio: Suuri ärsytys..
-# Tämä osio tuntui väkisin tehdylle. Mielestäni nimi paikallinen palvelumuotoilu olisi osuvampi nimi. Pohjoisuus ei näkynyt ympäripyöreissä selityksissä selityksissä mitenkään. 
-# Mielestäni peruste muotoilun yksilöitymiselle ei ole pitkät välimatkat ja sääolosuhteet. Jokaisessa paikassa on omat maantieteelliset ja kulttuurilliset haasteet ja perinteet. Tässä osiossa minusta tuntui, että elämästäni meni osuuden verran aikaa hukkaan.
-# Video 1: Arktinen muotoilu (geokgrafinen määritelmä) (pohjoinen muotoilu kulttuurisempi käsite) yksinkertaistettua, selkeää,järkeenkäyvää, luonto maanläheisyys mukana. Molemmissa suunnitellaan ääriolosuhteissa, joten meilä on monenlaista osaamista. (kaikkialla pätee sama)
-# Linkittyy alkuperäiskansatietoon, liittyy respectfull- designiin, kunnioitetaan materiaaleja ja resursseja, joita käytetään. (eikä näin kuulu olla aina)
-# Video2: Eroaa muusta muotoilusta, arktinen ei millään tasolla lähde massa-ajattelusta tai massamuotoilusta vaan on räätäilytyä ja erityistä sekä kulttuurisensitiivistä (kaikkkiin nykypäivän pohjoisiin kulttuureihin). Tehdään ekologisesti ja sosiaalisesti kestäviä ratkaisuja. Perusteet ja käytänteet samat, kuin muussakin muotoilussa, siinä on vain pohjoinen vivahde.omaa osaamista sisältävä osa-alue.
-# Kattokäsitteenä muotoilu, sen alla teollinen-, palvelu-, arktinen-, pohjoinenmuotoilu sama pohja eri vivahteilla.
-# Video3: Palvelumuotoilun suhde arktiseenmuotoiluun. Tuottaa ratkaisuja pohjoisen tarpeisiin, ratkaisut inhimillisen kestävyyden näkökulmasta.Perustavanlaatuista palvelumuotoilua.
-# Video4: Lapin yliopistossa palvelumuotoilu kulttuurilähtöistä. Horisonttihanke Amas menossa.Ihmiskeskeinen ote palvelumuotoilussa todella vahva. (kuuluisi olla aina)
+Tämä osio tuntui väkisin tehdylle. Mielestäni nimi paikallinen palvelumuotoilu olisi osuvampi nimi. Pohjoisuus ei näkynyt ympäripyöreissä selityksissä selityksissä mitenkään.   
+Mielestäni peruste muotoilun yksilöitymiselle ei ole pitkät välimatkat ja sääolosuhteet. Jokaisessa paikassa on omat maantieteelliset ja kulttuurilliset haasteet ja perinteet. Tässä osiossa minusta tuntui, että elämästäni meni osuuden verran aikaa hukkaan.   
+* Video 1: Arktinen muotoilu (geokgrafinen määritelmä) (pohjoinen muotoilu kulttuurisempi käsite) yksinkertaistettua, selkeää,järkeenkäyvää, luonto maanläheisyys mukana. Molemmissa suunnitellaan ääriolosuhteissa, joten meilä on monenlaista osaamista. (kaikkialla pätee sama)   
+Linkittyy alkuperäiskansatietoon, liittyy respectfull- designiin, kunnioitetaan materiaaleja ja resursseja, joita käytetään. (eikä näin kuulu olla aina)   
+* Video2: Eroaa muusta muotoilusta, arktinen ei millään tasolla lähde massa-ajattelusta tai massamuotoilusta vaan on räätäilytyä ja erityistä sekä kulttuurisensitiivistä (kaikkkiin nykypäivän pohjoisiin kulttuureihin). Tehdään ekologisesti ja sosiaalisesti kestäviä ratkaisuja. Perusteet ja käytänteet samat, kuin muussakin muotoilussa, siinä on vain pohjoinen vivahde.omaa osaamista sisältävä osa-alue.   
+Kattokäsitteenä muotoilu, sen alla teollinen-, palvelu-, arktinen-, pohjoinenmuotoilu sama pohja eri vivahteilla    
+* Video3: Palvelumuotoilun suhde arktiseenmuotoiluun. Tuottaa ratkaisuja pohjoisen tarpeisiin, ratkaisut inhimillisen kestävyyden näkökulmasta.Perustavanlaatuista palvelumuotoilua.
+* Video4: Lapin yliopistossa palvelumuotoilu kulttuurilähtöistä. Horisonttihanke Amas menossa.Ihmiskeskeinen ote palvelumuotoilussa todella vahva. (kuuluisi olla aina)
 # **3.0 MUOTOILUN PÄÄPERIAATTEET**
 *Palvelumuotoilu on kokonaisvaltaista* suunnittelutyötä. Palvelumuotoilussa tarvitaan *joustavaa ajattelua*, jossa vaihtelee luova ja analyyttinen ajattelu. Ajattelutapa ammentaa elementtejä vahvasti muotoiluajattelun puolelta. Palvelumuotoilun ydintä on *ihmislähtöisyys* ja *yhteiskehittäminen.* Palvelumuotoilua tarkasteltaessa prosessitasolla voidaan huomata siinä vahvaa *iteratiivisuutta*, jossa toiminta on *konkretiaan* nojaavaa käytännön tekemistä.
 
-Video: Ketkä ovat palvelumuotoilun keskiössä: Me kaikki, ei vain käyttäjä vaan sidosryhmään kuuluu palvelumuotoilija, käyttäjä, ammattilaiset ja muut ihmiset. Riippuu mikä ilmiö on kehittämisen kohteena.
+* Video: Ketkä ovat palvelumuotoilun keskiössä: Me kaikki, ei vain käyttäjä vaan sidosryhmään kuuluu palvelumuotoilija, käyttäjä, ammattilaiset ja muut ihmiset. Riippuu mikä ilmiö on kehittämisen kohteena.
 
 Esim sairaalassa potilaan kuntoutumiskokemus, Potilas ja kaikki palvelupolun kohtaamiset ja siellä ihmiset eri rooleissa. Saatava kaikki keskustelemaan keskenään. Mikä motivoi, mikä tuntuu hankalallle ja mikä hyvältä. Käyttäjä on se ihminen mutta yleensä niitäkin on useita. Palveluntuottajat ovat myös tärkeitä. Käyttäjä ja työntekijäkokemus. Mietittävä myös käyttäjän arkea, kun pohditaan hänen profiilia.
 
@@ -140,9 +140,9 @@ Palvelumuotoilija johtaa prosessia, työpajoja ja muutosta jotta päästään et
 
 Lisämateriaalia:
 
-Ihmislähtöisen suunnittelun metodeja: [https://www.designkit.org/methods ](https://www.designkit.org/methods)
+Ihmislähtöisen suunnittelun metodeja: [https://www.designkit.org/methods](https://www.designkit.org/methods)
 
-Ihmislähtöisen suunnittelun esimerkkejä: [https://www.designkit.org/case-studies ](https://www.designkit.org/case-studies)
+Ihmislähtöisen suunnittelun esimerkkejä: [https://www.designkit.org/case-studies](https://www.designkit.org/case-studies)
 
 **3.3 Yhteiskehittäminen**
 
@@ -196,7 +196,7 @@ lapsilla on erinomaiset valmiudet käyttää divergenttiä ajattelutapaa. Merkit
 
 Tehtävä,30 ympyrää minuutissa- tehtävä on Tim Brownin TED-puheessaan Tales of Creativity and Play (2008) esittämä harjoitus
 
-Linkki puheeseen ja videoon 27min <https://www.ted.com/talks/tim_brown_tales_of_creativity_and_play#t-599322>
+[Linkki puheeseen ja videoon 27min](<https://www.ted.com/talks/tim_brown_tales_of_creativity_and_play#t-599322>)
 
 Piirrä vierustoverisi aikaa 30sek.
 
@@ -291,14 +291,15 @@ Kontaktipisteet voidaan jakaa neljään eri ryhmään: kanavat, esineet, toimint
 
 **Ihmisillä** on usein tärkeä rooli palvelun tuotannossa. Sekä palveluiden käyttäjiä (asiakkaat) että palveluiden tuottajia (kuten asiakaspalvelijat) voidaan ohjata palvelumuotoilulla. Palvelumuotoilua tehtäessä sekä palveluiden käyttäjille että niiden tuottajille suunnitellaan sopivat roolit osaksi palvelun tuotantoa. Ratkaistaan esimerkiksi se, kuinka suurelta osin asiakaspalvelija huolehtii palvelun tuotannosta ja missä määrin asiakas itse ottaa vastuuta palvelun tuotannosta itsepalvelun muodossa. Palvelumuotoilulla voidaan suunnitella myös asiakaspalvelijoiden keskinäistä rooli- ja vastuunjakoa tai tuottaa heille työkaluja ja ohjeita laadukkaan asiakaspalvelun tueksi. Asiakaspalvelijoille on mahdollista tuottaa myös määrityksiä, millaista vuorovaikutusta asiakkaan kanssa toivotaan (rento, lämmin, virallinen, pidättyvä jne.), jotta palvelutilanne on yrityksen brändin mukainen. Vaikka kenenkään toimintaa tai kokemuksia ei voida ennalta määrittää, palvelumuotoilulla voidaan ohjata palvelun kulkua haluttuun suuntaan ja antaa halutunlaisen palvelukokemuksen syntymiselle suotuisat olosuhteet. Palveluihin linkittyy asiakkaan ja asiakaspalvelijan lisäksi myös muita ihmisryhmiä ja ns. sidosryhmiä. Tällaisia voivat olla esimerkiksi yrityksen eri osastoilla työskentelevät henkilöt sekä muut asiakkaat. Palvelumuotoilulla voidaan vaikuttaa positiivisesti myös asiakkaiden keskinäiseen vuorovaikutukseen esimerkiksi ohjaamalla asiakasvirtoja niin, että palvelu toimii mahdollisimman nopeasti ja joustavasti ilman ristiriitoja ja konflikteja.
 
-` `kanavat: juna, 
+* kanavat: juna, 
 
-esineet: junan istuimet, lipun tarkastuslaite, työntekijöiden asut, pistorasiat,liukumäki
+* esineet: junan istuimet, lipun tarkastuslaite, työntekijöiden asut, pistorasiat,liukumäki
 
-toimintamallit: miten konduktööri tervehtii asiakkaita junavaunuun saapuessaan, asiakkaan ohjeistus, lämmin hymy
+* toimintamallit: miten konduktööri tervehtii asiakkaita junavaunuun saapuessaan, asiakkaan ohjeistus, lämmin hymy
 
-ihmiset: perhe, asiakaspalvelija eli lipuntarkastaja, kanssamatkustajat
-# **4.5 Palvelukokonaisuuden näkyväksi tekeminen: service blueprint**
+* hmiset: perhe, asiakaspalvelija eli lipuntarkastaja, kanssamatkustajat
+
+# **4.5 Palvelukokonaisuuden näkyväksi tekeminen: service blueprint**   
 Näkymättömän palvelun näkyväksi tekeminen on tärkeää, jotta sitä voidaan tarkastella ja kehittää. Palvelumuotoilussa yksi yleisimmistä työkaluista hahmottaa kehitettävää palvelua kokonaisvaltaisesti on service blueprint. (1984) eli palvelumallin kuvaus, palveluketjuanalyysi tai palvelun prosessikaavio. se on palveluiden kehittämisen menetelmä, jonka avulla pyritään kuvaamaan visuaalisesti palveluun liittyvät osatekijät ja niiden väliset suhteet. Service blueprinttiä voidaan hyödyntää sekä toteutettavan palvelun suunnittelussa että jo olemassa olevan palvelun kehittämisessä.
 
 Palvelun kokonaisvaltaisessa visualisoinnissa tehdään näkyväksi palveluun liittyvät toimijat, monen suuntaiset vuorovaikutussuhteet, yhtä aikaa tapahtuvat toiminnot sekä palveluun liittyvät fyysiset, digitaaliset ja aineettomatkin osatekijät. Service blueprintin vahvuus on, että siinä tehdään näkyväksi sekä käyttäjien että työntekijöiden kohtaamia prosesseja ja niiden välisiä suhteita. Parhaimmillaan se on hyvä työkalu, joka auttaa yritystä havaitsemaan kehityskohteita, palveluprosessien sisäisiä pullonkauloja, tehostamaan monimutkaisia prosesseja ja ennen kaikkea parantamaan käyttäjäkokemusta. Visualisoinnin avulla yritys pystyy hahmottamaan palvelun ko Service blueprintin mahdollistama monipuolinen palvelun tehostaminen ja kehittäminen sekä työntekijä- ja käyttäjätyytyväisyyden nostaminen luonnollisesti avaavat yritykselle mahdollisuuden parantaa palvelun taloudellista hyötyä.konaiskuvaa eli sitä, miten yritys tuottaa palvelua ja miten käyttäjät sitä käyttävät. 
@@ -312,22 +313,22 @@ Palvelumuotoilun prosessi ei ole lineaarista vaan iteratiivista toimintaa. Itera
 
 Stefan Moritz (2005) on esittänyt kuusivaiheisen prosessin:
 
-1. Asiakasymmärryksen hankkiminen
-1. Palvelumahdollisuuksien löytäminen
-1. Ideoiden luominen
-1. Parhaiden ideoiden arviointi ja edelleen kehittäminen
-1. Palveluideoiden visualisointi
-1. Konkretisointi ja toteutus
+* Asiakasymmärryksen hankkiminen
+* Palvelumahdollisuuksien löytäminen
+* Ideoiden luominen
+* Parhaiden ideoiden arviointi ja edelleen kehittäminen
+* Palveluideoiden visualisointi
+* Konkretisointi ja toteutus
 
 Suunnittelutoimisto Engine (2009) jakaa palvelumuotoiluprosessin puolestaan vain kolmeen vaiheeseen:
 
-1. Asiakastarpeet ja suunnitteluratkaisun tunnistamisen vaiheet ovat palvelun toimintaympäristön, asiakkaan liiketoiminnan ja käyttäjien ymmärtämistä.
-1. Suunnitteluvaihtoehtojen toteutusvaiheeseen liittyvät suunnitteluratkaisun tunnistaminen ja luomisvaihe, jotka ovat yhteissuunnittelua sekä prototypointia eli suunnitteluratkaisujen mallintamista ja visualisoimista.
-1. Arviointivaihe on palveluratkaisujen arviointia eli koemallien vertaamista mittareita käyttäen. Pyritään todentamaan mahdollisen ratkaisun kannattavuus ja suunniteltujen palvelujen arvo asiakkaalle.
+* Asiakastarpeet ja suunnitteluratkaisun tunnistamisen vaiheet ovat palvelun toimintaympäristön, asiakkaan liiketoiminnan ja käyttäjien ymmärtämistä.
+* Suunnitteluvaihtoehtojen toteutusvaiheeseen liittyvät suunnitteluratkaisun tunnistaminen ja luomisvaihe, jotka ovat yhteissuunnittelua sekä prototypointia eli suunnitteluratkaisujen mallintamista ja visualisoimista.
+* Arviointivaihe on palveluratkaisujen arviointia eli koemallien vertaamista mittareita käyttäen. Pyritään todentamaan mahdollisen ratkaisun kannattavuus ja suunniteltujen palvelujen arvo asiakkaalle.
 
 kaikkien prosessien ytimessä olevan ihminen ja ihmisen tarpeiden, toiminnan ja unelmien löytäminen ja ymmärtäminen sekä näiden tietojen käyttäminen uusien tarjoamien löytämiseen ja yritystoiminnan kehittämiseen.
 
-British Design Councilin vuonna 2004 lanseeraama tuplatimanttimalli (Double diamond model), jossa prosessi jakaantuu nimensä mukaisesti kahteen suurempaan vaiheeseen eli timanttiin. *Ensimmäisen timantin aikana* keskitytään löytämään ja määrittelemään todellinen suunnittelun kohde ja kommunikoimaan se ymmärrettävästi. *Toisessa timantissa* puolestaan keskitytään kehittämään ja tuottamaan tunnistettuun ongelmaan tai mahdollisuuteen parhaiten sopiva ratkaisu.
+British Design Councilin vuonna 2004 lanseeraama tuplatimanttimalli _(Double diamond model)_, jossa prosessi jakaantuu nimensä mukaisesti kahteen suurempaan vaiheeseen eli timanttiin. *Ensimmäisen timantin aikana* keskitytään löytämään ja määrittelemään todellinen suunnittelun kohde ja kommunikoimaan se ymmärrettävästi. *Toisessa timantissa* puolestaan keskitytään kehittämään ja tuottamaan tunnistettuun ongelmaan tai mahdollisuuteen parhaiten sopiva ratkaisu.
 
 Tuplatimantin suunnitteluperiaatteissa painottuu palvelua käyttävien ihmisten tarpeiden, vahvuuksien ja toiveiden ymmärtäminen. Lisäksi niiden avulla voidaan muodostaa yhteinen ymmärrys todellisesta suunnittelukohteesta ja jakaa ajatuksia ja ideoita. Suunnitteluperiaatteissa korostuu myös yhteiskehittäminen ja muiden ajatuksista ja toiminnasta inspiroituminen. Tuplatimantin suunnitteluperiaatteissa nojataan vahvasti iteratiiviseen toimintamalliin, jossa pyritään tunnistamaan virheet mahdollisimman aikaisessa vaiheessa. Näin voidaan minimoida riskejä ja saada varmuutta suunnitteluratkaisuille.
 
@@ -345,7 +346,7 @@ Määrälliset menetelmät voivat olla esimerkiksi laajempien tietomäärien, ku
 
 **Perustutkimuksella** kerätään ihmisten itsensä sanoittamaa, eksplisiittistä tietoa, jota saadaan esimerkiksi haastatteluilla, ryhmäkeskusteluilla ja kyselyillä. Huomattavaa on, että näin kerätty tieto on tietoa siitä, mitä ihminen osaa, muistaa ja ennen kaikkea mitä haluaa itsestään kertoa. Perustutkimus on yleinen tapa hahmottaa asiakasymmärrystä, mutta suunnittelun tueksi kerätty data voi jäädä kuitenkin pintapuoliseksi ja esimerkiksi latentit eli piilevät tarpeet voivat jäädä huomaamatta. Siksi perustutkimuksen rinnalle on hyvä ottaa myös kontekstuaalisen ja eksploratiivisen tutkimuksen menetelmiä.
 
-` `**Kontekstuaalisessa tutkimuksessa** painotus on havainnoitavassa tiedossa, jossa tutkija tarkastelee esimerkiksi sitä, miten ihmiset käyttäytyvät ja toimivat sekä miten erilaiset tilanteet ja ympäristöt vaikuttavat toimintaan. Havainnointia voidaan tehdä sekä aidossa toimintaympäristössä että testi- tai laboratorio-olosuhteissa.
+**Kontekstuaalisessa tutkimuksessa** painotus on havainnoitavassa tiedossa, jossa tutkija tarkastelee esimerkiksi sitä, miten ihmiset käyttäytyvät ja toimivat sekä miten erilaiset tilanteet ja ympäristöt vaikuttavat toimintaan. Havainnointia voidaan tehdä sekä aidossa toimintaympäristössä että testi- tai laboratorio-olosuhteissa.
 
 **Eksploratiivisella tutkimuksella** voidaan kerätä piilevää tietoa, joka ei ole sanoilla eli implisiittisesti ilmaistavaa tietoa. Eksploratiivisessa tutkimuksessa ihminen itse tuottaa materiaalia erilaisin projektiivisin menetelmin, kuten luotaimilla ja make tools -työkaluilla. Projektiivisina menetelminä voidaan käyttää esimerkiksi päiväkirjoja, muistiinpanoja, valokuvia, videoita, kollaaseja, piirroksia tai annettujen ohjeiden mukaan luotua tarinankerrontaa. Näitä tuotoksia analysoimalla tutkijat saavat tietoa ihmisten tunteista, ajatuksista, kokemuksista, unelmista ja peloista. Tuotokset voivat antaa myös tietoa ihmisten tavoista ymmärtää asioita, tapahtumia ja paikkoja, ja niistä voidaan havainnoida myös sitä, miten ihminen voi käsittää asioita väärin. Ennen kaikkea eksploratiivisten tutkimusmenetelmien kautta voidaan löytää tuntemattomia, määrittelemättömiä ja odottamattomia tarpeita, joita ihminen ei osaa sanoittaa tai ei tiedä edes olevan.
 
@@ -393,11 +394,11 @@ On kuitenkin tärkeää ymmärtää työpajoihin vaikuttavat tekijät, jolloin v
 
 **Työpajojen etuja:** 
 
-\- Sille on määritetty selkeästi *aika,* jolloin kehittämistä tehdään yhdessä.
+* Sille on määritetty selkeästi *aika,* jolloin kehittämistä tehdään yhdessä.
 
-\- Työpajaan on *kutsuttu tietyt ihmiset*, joiden asiantuntijuus ja erilaiset näkökulmat hyödyttävät kehittämistä.
+* Työpajaan on *kutsuttu tietyt ihmiset*, joiden asiantuntijuus ja erilaiset näkökulmat hyödyttävät kehittämistä.
 
-\- Työpajalle *määritellään tavoite*, jota kohti työskennellään. 
+* Työpajalle *määritellään tavoite*, jota kohti työskennellään. 
 
 ***Tavoite:*** Työpajan luonne riippuu siitä, mikä työpajan tavoite on: uuden palvelun tuottaminen, olemassa olevan palvelun kehittäminen, ongelmanratkaisu, toiminnan tehostaminen jne. Tavoite vaikuttaa siihen, keitä työpajaan osallistuu, miten työpajatoiminta aikataulutetaan, millaisessa tilassa työpaja järjestetään ja millaisia menetelmiä työpajassa käytetään.
 
@@ -437,8 +438,10 @@ Tuotantovaiheessa palvelumuotoilija saattaa pudota pois ja tulla konsultteja muk
 
 **Roolit:** Palvelumuotoilijan rooli on usein toimia työpajan fasilitoijana, ja työpajassa voi olla myös useampia fasilitoijia. Erityisesti isommissa ryhmissä voi työpajan vetämisen kannalta olla hedelmällistä muodostaa fasilitointitiimi. Tällöin työpajalla on pääfasilitoija, joka huolehtii kokonaisuudesta, sekä apufasilitoijat, jotka avustavat pienryhmiä tai vetävät osan työpajan tehtävistä. Muita rooleja voivat olla esimerkiksi dokumentoija, esittelijä, ”puheenjohtaja” tai aikataulusta huolta pitävä henkilö. Jos työpajaan osallistuu useampi järjestäjä, on työpajan onnistumisen kannalta tärkeä sopia selkeästi roolituksista etukäteen, jotta kaikille on selvää, millaisia vastuutehtäviä heille kuuluu työpajan suunnittelussa, työpajan aikana ja työpajan jälkeen.
 
-Jos työpajan osallistujat ovat kokeneita työpajatoimijoita ja hallitsevat monia menetelmiä, voivat osallistujat itseohjautua työpajan järjestämisen suhteen, jolloin erillistä fasilitoijaa ei välttämättä tarvita. Tämä on harvinaista, ja yleensä työpaja hyötyy fasilitoinnista, sillä tällöin myös kokeneet työpajatoimijat pääsevät nauttimaan vapaasta osallistumisesta ilman varsinaista vetovastuuta.
-##### **Työpajan tila ja etätyöpaja** Työpaja mielletään usein fyysiseksi työpajaksi, jossa osallistujat ovat samassa tilassa. Tilaksi kannattaa valita mahdollisimman muokattava ja neutraali tila, johon kenelläkään ei liity erillisiä tunnetiloja. Muokattavuus helpottaa erilaisten toimintojen tekemistä. Työtilaa valitessa voi kiinnittää muokattavuuden lisäksi huomiota valaistukseen, akustiikkaan ja yksityisyyteen. Työtilan tulisi mahdollistaa työrauha, joten jo oven sulkeminen ja ”Työpaja käynnissä, ethän häiritse” -lappu pitää työpajan ulkopuoliset henkilöt ja keskeytykset poissa.
+Jos työpajan osallistujat ovat kokeneita työpajatoimijoita ja hallitsevat monia menetelmiä, voivat osallistujat itseohjautua työpajan järjestämisen suhteen, jolloin erillistä fasilitoijaa ei välttämättä tarvita. Tämä on harvinaista, ja yleensä työpaja hyötyy fasilitoinnista, sillä tällöin myös kokeneet työpajatoimijat pääsevät nauttimaan vapaasta osallistumisesta ilman varsinaista vetovastuuta.   
+
+**Työpajan tila ja etätyöpaja**   
+Työpaja mielletään usein fyysiseksi työpajaksi, jossa osallistujat ovat samassa tilassa. Tilaksi kannattaa valita mahdollisimman muokattava ja neutraali tila, johon kenelläkään ei liity erillisiä tunnetiloja. Muokattavuus helpottaa erilaisten toimintojen tekemistä. Työtilaa valitessa voi kiinnittää muokattavuuden lisäksi huomiota valaistukseen, akustiikkaan ja yksityisyyteen. Työtilan tulisi mahdollistaa työrauha, joten jo oven sulkeminen ja ”Työpaja käynnissä, ethän häiritse” -lappu pitää työpajan ulkopuoliset henkilöt ja keskeytykset poissa.   
 Jos työpajatilassa on ikkunoita, joiden takana kulkee ihmisiä, voi ikkunoiden peitoksi asettaa esimerkiksi julistepohjia silmänkorkeudelle. Tällöin vältytään uteliailta katseilta, ja samoja julisteita voidaan hyödyntää esimerkiksi post-it- ja kirjoitusalustoina, jotka työpajan päätteeksi voidaan kerätä talteen. Kevyet, liikuteltavat huonekalut sekä baarijakkara ja korkea pöytä -tyyppiset yhdistelmät helpottavat tilan muokattavuutta ja ihmisten sujuvaa liikkumista tilassa. Työpajoihin saapuvat osallistujat voidaan myös osallistaa tilan muokkaamiseen, mikä osaltaan alustaa yhteistekemiseen ja tilan kokemiseen mukavana. Usein on kuitenkin ajallisista syistä järkevää valmistella työpajatila ja materiaalit etukäteen, jolloin itse työpajatekemiselle jää kaikki aika.
 
 Työpajoja voidaan myös toteuttaa verkossa etäyhteyden kautta. Tällöin digitaaliset työkalut mahdollistavat reaaliaikaisen työpajatoiminnan ja kommunikaation. Etätyöpaja ei poista työpajan roolituksia, vaan fasilitoinnin roolista tulee entistä tärkeämpi, jotta etäyhteydellä osallistuvat saadaan luontevasti mukaan työpajan toimintaan. Työpajan sujuvuuden kannalta tavoiteltavaa on saada joko kaikki osallistujat samaan tilaan fyysisesti tai järjestää koko työpaja verkon kautta. Työpajan vetämisen, osallisuuden ja tulosten kannalta haastavin tilanne on se, että osa on paikan päällä ja osa etänä, jolloin kaikki eivät välttämättä pysty aktiivisesti osallistumaan kaikkiin toimintoihin. Työpajan seuraaminen voi myös häiriintyä huomion jatkuvassa vaihtamisessa fyysisen ja digitaalisen tilan välillä.
@@ -455,37 +458,37 @@ Kaikkia voi jännittää, mutta uusilla kerroilla yhteisen luottamuksen kanssa t
 
 **Huomioitavaa: -** työpajan aihe ja sen konteksti 
 
-- osallistujien työpajatyöskentelytaso (mitä sidosryhmiä on mukana ja miten hyvin he voivat hahmottaa kompleksisia ongelmia)
-- ongelman tai haasteen haastavuustaso.
-- **Mahdollisia tulevia haasteita:** 
-- kommunikointiongelmat osallistujilla, joilla ei ole muotoilutaustaa
-- osallistujien ongelmat ymmärtää ja hahmottaa työpajan sisältöä
-- epäonnistumisen tai väärien vastauksien pelko (passivoi osallistujia)
-- pienryhmissä ei ole rooleja tai ryhmän sisäistä rakennetta
-- ”vaikeat osallistujat”, jotka kyseenalaistavat ja haastavat menetelmiä ja työpajan sisältöä.
+* osallistujien työpajatyöskentelytaso (mitä sidosryhmiä on mukana ja miten hyvin he voivat hahmottaa kompleksisia ongelmia)
+* ongelman tai haasteen haastavuustaso.
+**Mahdollisia tulevia haasteita:** 
+* kommunikointiongelmat osallistujilla, joilla ei ole muotoilutaustaa
+* osallistujien ongelmat ymmärtää ja hahmottaa työpajan sisältöä
+* epäonnistumisen tai väärien vastauksien pelko (passivoi osallistujia)
+* pienryhmissä ei ole rooleja tai ryhmän sisäistä rakennetta
+* ”vaikeat osallistujat”, jotka kyseenalaistavat ja haastavat menetelmiä ja työpajan sisältöä.
 
 Kommunikointiin vaikuttavat kulttuuriset, sosiaaliset ja psykologiset tekijät. Kommunikoinnin toimivuus on aina tilanteesta riippuvaista, ja sen onnistuminen on monen tekijän summa. Helposti nähtäviä vaikuttajia ovat esimerkiksi sosiaaliset roolit, hierarkia (esimies, työntekijä), suhteet (puoliso, ystävät, työkaverit) sekä ihmisten luonne, tausta ja kokemushistoria.
 
 Roolien vaikutus. Huomioitava, että kaikki saavat suunvuoron ja kaikki viihtyvä. Jos mukana esim potilaat ja läääkärit, niin saadaanko tasapainoinen työskentely. Dominoiva saatava antamaan tilaa muille ja hiljaisten äänet kuuluviin. 
 
-Älä aliarvioi osallistujia, ole avoin etenemisen suhteen, alussa tieto siitä miksi täällä ollaan, mitä tehdään ja mitä tappahtuu, selkeyttää.
+## Älä aliarvioi osallistujia, ole avoin etenemisen suhteen, alussa tieto siitä miksi täällä ollaan, mitä tehdään ja mitä tappahtuu, selkeyttää.
 
-**Ennen työpajaa:** Osallistujilta ei yleensä vaadita valmisteluihin osallistumista, mutta esimerkiksi aiheeseen virittäytymiseen voi käyttää pientä etukäteistehtävää, joka liittyy osallistujien omaan osaamiseen ja työhön. Tällä tavoin he voivat jo etukäteen miettiä omaan työhönsä liittyviä osa-alueita työpajan sisältöihin liittyen. Järjestäjän etukäteisvalintoihin kuuluu työpajan aikataulutus, menetelmien valitseminen, menetelmiin tarvittavien materiaalien hankkiminen (menetelmäpohjat, fyysiset materiaalit, taustakuvat jne.), esitysten valmistelu, varasuunnitelmien ja menetelmien valmistelu, tarvittavat dokumentaatiovälineet sekä työpajatilan järjestely.
+**Ennen työpajaa:** Osallistujilta ei yleensä vaadita valmisteluihin osallistumista, mutta esimerkiksi aiheeseen virittäytymiseen voi käyttää pientä etukäteistehtävää, joka liittyy osallistujien omaan osaamiseen ja työhön. Tällä tavoin he voivat jo etukäteen miettiä omaan työhönsä liittyviä osa-alueita työpajan sisältöihin liittyen. Järjestäjän etukäteisvalintoihin kuuluu työpajan aikataulutus, menetelmien valitseminen, menetelmiin tarvittavien materiaalien hankkiminen (menetelmäpohjat, fyysiset materiaalit, taustakuvat jne.), esitysten valmistelu, varasuunnitelmien ja menetelmien valmistelu, tarvittavat dokumentaatiovälineet sekä työpajatilan järjestely.   
 
 Koska työpajarakenteita ja tapoja toteuttaa työpajoja on monia, on vaikeaa sanoa yleispätevää ohjetta sille, miten työpaja tulisi toteuttaa. Voidaan kuitenkin todeta, että työpajan alku on hyvin tärkeä osallistujien sitouttamisessa ja työpajatavoitteista kommunikoitaessa. Työpajan alussa on hyvä käydä läpi työpajatoiminnan yhteisiä sääntöjä. Nämä kannattaa määritellä työpajan tavoitteiden ja käsiteltävän aiheen pohjalta siten, että työpajassa mukana oleminen tuntuu osallistujista mahdollisimman luontevalta.
 
-- **Työpajan sääntöjä:** *Rohkea ja runsas ideointi tuottaa hedelmää (realistista arviointia varten on aikaa varattuna, annetaan nyt ideoiden lentää).*
-- *Kaikkien mielipiteet ovat yhtä arvokkaita (ei keskeytetä toisia, vaan annetaan kaikkien puhua).*
-- *Keskustelemme asioista ja niiden kehittämisestä, emme siitä, kuka on oikeassa.*
-- *Työpajassa vältetään sanaa ”Ei”, sen sijaan ”Kyllä, ja” -muoto tuottaa uusia ajatuksia.*
+**Työpajan sääntöjä:** *Rohkea ja runsas ideointi tuottaa hedelmää (realistista arviointia varten on aikaa varattuna, annetaan nyt ideoiden lentää).*
+* Kaikkien mielipiteet ovat yhtä arvokkaita (ei keskeytetä toisia, vaan annetaan kaikkien puhua).*
+* Keskustelemme asioista ja niiden kehittämisestä, emme siitä, kuka on oikeassa.*
+* Työpajassa vältetään sanaa ”Ei”, sen sijaan ”Kyllä, ja” -muoto tuottaa uusia ajatuksia.*
 
 **Työpajan alussa** on hyvä tähdentää työpajan tavoitetta, jotta kaikilla on yhteinen ymmärrys siitä, mitä työpajassa tullaan tekemään: mikä on työpajan tavoite, millä tehtävillä/menetelmillä ja aikataululla sitä kohti mennään ja mitä taustatietoa osallistujien tulisi ymmärtää, jotta työpajan eteneminen olisi sujuvaa. Etenkin jos työpajaosallistujat ovat vieraita toisilleen, on tärkeää varata aikaa esittäytymiselle sekä kevyemmälle ”jään murtamistehtävälle” (ice-breaker), jolloin osallistujat pääsevät helpommin passiivisen kuuntelijan roolista aktiiviseksi työpajaosallistujaksi.
 
 **Hyviä esimerkkejä lämmittelyyn:**
 
-<https://www.thisisservicedesigndoing.com/methods/yes-and-warm-up>
+(<https://www.thisisservicedesigndoing.com/methods/yes-and-warm-up>)
 
-<https://www.sessionlab.com/blog/icebreaker-games/> 
+(<https://www.sessionlab.com/blog/icebreaker-games/>)
 
 **Aloituksen jälkeen** voi suunnitella erilaisia menetelmiä työpajan tavoitteen toteuttamiseen. Valittavien menetelmien kirjo on laaja, ja valmiita malleja on myös paljon tarjolla. Oleellista onkin hahmottaa valittujen menetelmien antamat hyödyt työpajan tavoitteen saavuttamiseen. Työpajan kulkua voi ajatella kuvana, joka askel kerrallaan täyttyy yksityiskohdilla sitä mukaa, kun työpaja etenee menetelmästä ja aktiviteetista toiseen.
 
@@ -501,23 +504,15 @@ Osallistujien luontevaa toimintaa edesauttaa tieto siitä, että kaikki sisält�
 
 Fasilitoija voi määritellä omaa rooliaan myös seuraavien parametrien kautta ja työpajan luonteen, aiheen ja tavoitteen perusteella pyrkiä säätämään omaa toimintaansa työpajaan sopivaksi:
 
-\1. Kommunikaatio: selittävä vs. kuunteleva
-
-\2. Valta: ohjaileva vs. ei-ohjaileva
-
-\3. Soveltaminen: tiukka vs. joustava
-
-\4. Epäkohdat: välttää konflikteja vs. nostetaan konfliktit esille
-
-\5. Kontrolli: keskitetty vs. hajautettu
-
-\6. Tekeminen: tekee itse vs. antaa ryhmän tehdä
-
-\7. Fasilitointi: tekee fasilitoinnin vs. antaa ryhmän fasilitoitua itse
-
-\8. Työskentely ja aikataulu: strukturoitu vs. ei-strukturoitu
-
-\9. Työpajan aihe: ei tunne aihetta vs. on aiheen asiantuntija
+1. Kommunikaatio: selittävä vs. kuunteleva   
+2. Valta: ohjaileva vs. ei-ohjaileva   
+3. Soveltaminen: tiukka vs. joustava   
+4. Epäkohdat: välttää konflikteja vs. nostetaan konfliktit esille   
+5. Kontrolli: keskitetty vs. hajautettu   
+6. Tekeminen: tekee itse vs. antaa ryhmän tehdä   
+7. Fasilitointi: tekee fasilitoinnin vs. antaa ryhmän fasilitoitua itse   
+8. Työskentely ja aikataulu: strukturoitu vs. ei-strukturoitu    
+9. Työpajan aihe: ei tunne aihetta vs. on aiheen asiantuntija
 
 Hyvän palvelumuotoilijan ominaisuudet ja roolit: 
 
@@ -525,7 +520,7 @@ Muuntautumiskykyinen, hyvä kuuntelija, aistiva, ei liikaa omaa persoonaa alussa
 
 **Luennointi ei kuulu fasilitoijan rooliin!.**
 
-Fasilitaattorin työkirja. Saatavilla <https://www.globaalikasvatus.fi/sites/default/files/attachments/fasilitaattorin-tyokirja-menetelmia-sujuvaan-ryhmatyoskentelyyn.pdf>
+[Fasilitaattorin työkirja. Saatavilla] (<https://www.globaalikasvatus.fi/sites/default/files/attachments/fasilitaattorin-tyokirja-menetelmia-sujuvaan-ryhmatyoskentelyyn.pdf>)
 
 2. **Design sprintit**
 
@@ -537,7 +532,7 @@ Prosessin lyhyen aikajänteen huomioon ottaen design sprintissä on tärkeää p
 
 Design sprint -prosessin tavoitteena ei ole tuottaa valmista ja viimeisteltyä konseptia, vaan tuottaa lyhyessä ajassa uusia ideoita ja näkökulmia olemassa olevaan ongelmaan. Näin kehitystyötä voidaan jatkaa sprintin jälkeen rikkaammalla materiaalilla. Uusien ideoiden kehittämisen lisäksi design sprint voi tuoda epäsuoraa arvoa yritykselle kasvattamalla ymmärrystä muotoiluajattelusta ja muotoilun menetelmistä, jotka puolestaan voivat vaikuttaa muutoksiin yrityksessä itsessään. Design sprinttejä voidaankin pitää ketteränä menetelmänä jalkauttaa tietoa palvelumuotoilusta ja muotoiluajattelusta yrityksiin.
 
-Design Sprints (2020). Google Design Sprint Kit: Design Sprint Methodology. [https://designsprintkit.withgoogle.com/methodology/overview]()
+[Design Sprints (2020). Google Design Sprint Kit: Design Sprint Methodology.](https://designsprintkit.withgoogle.com/methodology/overview)
 
 **1. Ymmärrä (UNDERSTAND)**
 
@@ -635,13 +630,12 @@ Kun palveluteknologia sisältää esimerkiksi koneoppimista tai tekoälyä yleen
 
 **Toteuta**- vaihe. Palveluiden käyttöönotossa muotoiltu palvelu tuodaan osaksi organisaation palveluprosesseja, -järjestelmiä ja toimintakulttuuria. Digitaalisten palveluiden taustalla on usein laaja järjestelmä, joka takaa palvelun toiminnan. Tällöin on ensin varmistuttava, että prosessit toimivat halutulla tavalla ennen kuin palvelu asetetaan asiakkaiden saataville. Vaikka palvelu olisikin täysin digitaalinen, on myös muistettava tukipalvelut ja asiakaspalvelu, jotka mahdollistavat vikatilanteiden hoitamisen. Nämä tulisi olla myös osa palvelujärjestelmien muotoilua.
 
-Palvelun käyttöönoton jälkeen palvelun ylläpitäminen on myös palvelumuotoilun kannalta mahdollisuus kerätä digitaalisen palvelun käyttödataa. Datan kautta voidaan hahmottaa, mitkä palvelun toiminnoista koetaan haastaviksi ja missä palvelun vaiheessa on mahdollisesti aukkoja. Ongelmakohtiin voidaan siten tarttua mahdollisimman aikaisessa vaiheessa ja palvelua voidaan kehittää eteenpäin.
-
-**Video:** 
+Palvelun käyttöönoton jälkeen palvelun ylläpitäminen on myös palvelumuotoilun kannalta mahdollisuus kerätä digitaalisen palvelun käyttödataa. Datan kautta voidaan hahmottaa, mitkä palvelun toiminnoista koetaan haastaviksi ja missä palvelun vaiheessa on mahdollisesti aukkoja. Ongelmakohtiin voidaan siten tarttua mahdollisimman aikaisessa vaiheessa ja palvelua voidaan kehittää eteenpäin.   
 
 Tuoko teknologia haasteita. Useampia huomioitavia asioita muotoilussa, mutta avaa paljon mahdollisuuksia kuin pelkkien perinteisien työkalujen avulla tehtynä. Voidaan kehittää ketterästi koko palvelupolku. Opitaan käyttäjien tavoista ja haasteista, palveluiden haasteet helppo tunnistaa ja jatkuvaan kehitykseen hyvä, kun uusia asioita tulee koko ajan (kun kerätään dataa, jota muotoilija pystyy yhdistämään muihin tietokanaviin) Etenkin alussa ja lopussa datan käytön merkitys on suuri. 
 
-Edistyneiden teknologioiden kuten koneoppimisen hyödyntäminen osana palvelua vaatii asiakasdatan sijaan opetusdataa palvelun toimintoja varten!
+Edistyneiden teknologioiden kuten koneoppimisen hyödyntäminen osana palvelua vaatii asiakasdatan sijaan opetusdataa palvelun toimintoja varten!   
+
 # **8.1 Tarpeet palvelumuotoilun hyödyntämiselle organisaatiossa**
 Palvelumuotoilun hyödyntämistä varten organisaatioissa tulisi olla johtotasolla ymmärrys siitä, mitä palvelumuotoilu on*, missä ja milloin siitä on hyötyä, millä tasoilla sitä voi hyödyntää ja miten esimerkiksi loppukäyttäjän rooli vaikuttaa palveluiden kokemiseen*. Yritys- ja organisaatiokontekstissa *loppukäyttäjällä* tarkoitetaan tuotteen tai palvelun käyttäjää, kun taas *asiakkaalla* viitataan esimerkiksi organisaation sisäistä henkilöä tai ryhmää, tai toista organisaatiota.
 
@@ -661,20 +655,22 @@ Organisaation tulisi toimia sitä tavoitetta kohti, että se pystyy hallitsemaan
 
 Asiakkaan roolin muutos vaikuttaa palveluiden luonteeseen ja siihen, miten niitä kannattaa kehittää, suunnitella tai luoda. Positiivinen asiakaskokemus on monen tekijän kokonaisuus, jossa asiakkaalla itsellään on vahva rooli, mutta jota ei voida saavuttaa ilman positiivista työntekijäkokemusta. Työntekijöiden rooli palvelumuotoilun tulosten implementoinnissa niin asiakasrajapintaan, toimintaa ohjaavalle tasolle kuin strategiselle tasolle on tärkeä huomioida. Tätä kuvataan tarkemmin seuraavassa luvussa.
 
-Jyrämä, A. & Mattelmäki, T. (eds.) (2015). Palvelumuotoilu saapuu verkostojen kaupunkiin. Aalto-yliopisto. Saatavilla: <https://shop.aalto.fi/media/filer_public/48/47/484746bf-4a1f-4f8e-9370-2d22c36b2cab/palvelumuotoilu.pdf>
-# **8.2 Palvelumuotoilun sijoittuminen organisaatioon**
-# Palvelumuotoilun hyödyntämiselle on monia eri syitä, ja niin myös palvelumuotoilun sijoittumisessa organisaatioon on monia variaatioita. Palvelumuotoilua voi tehdä sekä yrityksen sisällä työskentelevä palvelumuotoilija että yrityksen ulkopuolinen konsultti. Kummassakin tavassa on puolensa, ja niiden tunnistamisesta on etua tuloksien saavuttamisessa. Siinä, missä yrityksen sisällä oleva palvelumuotoilija tuntee hyvin organisaation, sen sidosryhmän ja toiminnan, voi siitä olla jopa haittaa, sillä omaan työhön voi olla vaikea saada etäisyyttä. Ulkopuolinen konsultti voi taas tuoda uutta ja raikasta näkökulmaa asioihin, mutta ei välttämättä ymmärrä syvempiä syy-yhteyksiä organisaation toiminnassa. Uuden näkökulman takia voi ajoittain olla hyödyllistä hankkia ulkopuolista konsultointiapua, vaikka organisaatiossa olisi oma palvelumuotoilija.
+[Jyrämä, A. & Mattelmäki, T. (eds.) (2015). Palvelumuotoilu saapuu verkostojen kaupunkiin. Aalto-yliopisto. Saatavilla:](<https://shop.aalto.fi/media/filer_public/48/47/484746bf-4a1f-4f8e-9370-2d22c36b2cab/palvelumuotoilu.pdf>)   
+
+# **8.2 Palvelumuotoilun sijoittuminen organisaatioon**   
+
+Palvelumuotoilun hyödyntämiselle on monia eri syitä, ja niin myös palvelumuotoilun sijoittumisessa organisaatioon on monia variaatioita. Palvelumuotoilua voi tehdä sekä yrityksen sisällä työskentelevä palvelumuotoilija että yrityksen ulkopuolinen konsultti. Kummassakin tavassa on puolensa, ja niiden tunnistamisesta on etua tuloksien saavuttamisessa. Siinä, missä yrityksen sisällä oleva palvelumuotoilija tuntee hyvin organisaation, sen sidosryhmän ja toiminnan, voi siitä olla jopa haittaa, sillä omaan työhön voi olla vaikea saada etäisyyttä. Ulkopuolinen konsultti voi taas tuoda uutta ja raikasta näkökulmaa asioihin, mutta ei välttämättä ymmärrä syvempiä syy-yhteyksiä organisaation toiminnassa. Uuden näkökulman takia voi ajoittain olla hyödyllistä hankkia ulkopuolista konsultointiapua, vaikka organisaatiossa olisi oma palvelumuotoilija.
 Video: In-house vs konsultti palvelumuotoilu: Konsulttipalvelut aika rajattuja keissejä, jotka on jossain tietyssä vaiheessa isompaa prosessia. In house skaala voi olla paljon laajempi tai keskitytään jonkin osaston tai koko yrityksen toimintaan kattava näkökulma ja laaja skaala. 
 
-Palvelumuotoilun sijoittuminen organisaation eri tasoille on olennainen osa palvelumuotoilun käyttöä käytännön työssä, ja sen määrittely helpottaa kehittämistä ja siihen liittyvän sidosryhmän rajaamista. Kehittäminen voi liittyä suoraan *asiakasrajapinnan tasolle, systemaattiselle tasolle* tai *strategiselle tasolle* kuten kuvassa 8.1 on esitetty. Asiakasrajapinnan tasolla ovat yksittäiset palvelut ja niiden yksityiskohdat sekä asiakkaan ja palveluntarjoajan välinen vuorovaikutus asiakaskokemuksen eri vaiheissa ja kosketuspisteissä, mitkä vaikuttavat asiakkaan kokemaan lopputuotteeseen. Systemaattisella tasolla ovat palveluiden ja asiakaskokemusten kehittämisen standardit, ohjeistukset, logiikat ja työkalut, jotka määritellään koko organisaation työntekijöiden käyttöön ja toimintaan. Strategisella tasolla tarkoitetaan yrityksen palveluliiketoiminnan, asiakaskokemuksen ja palvelutarjooman kehittämisen visioita ja tavoitteita sekä suurempia linjauksia, joita yrityksen toimintaan liittyy.
+Palvelumuotoilun sijoittuminen organisaation eri tasoille on olennainen osa palvelumuotoilun käyttöä käytännön työssä, ja sen määrittely helpottaa kehittämistä ja siihen liittyvän sidosryhmän rajaamista. Kehittäminen voi liittyä suoraan *asiakasrajapinnan tasolle, systemaattiselle tasolle* tai *strategiselle tasolle   
+Asiakasrajapinnan tasolla ovat yksittäiset palvelut ja niiden yksityiskohdat sekä asiakkaan ja palveluntarjoajan välinen vuorovaikutus asiakaskokemuksen eri vaiheissa ja kosketuspisteissä, mitkä vaikuttavat asiakkaan kokemaan lopputuotteeseen. Systemaattisella tasolla ovat palveluiden ja asiakaskokemusten kehittämisen standardit, ohjeistukset, logiikat ja työkalut, jotka määritellään koko organisaation työntekijöiden käyttöön ja toimintaan. Strategisella tasolla tarkoitetaan yrityksen palveluliiketoiminnan, asiakaskokemuksen ja palvelutarjooman kehittämisen visioita ja tavoitteita sekä suurempia linjauksia, joita yrityksen toimintaan liittyy.
 
-määritellä, millaisesta kehittämisestä on kyse eli mikä on kehittämisen kohde valitulla tasolla. Kehittäminen eroaa paljon riippuen siitä, onko kyseessä palveluprosessien ja kontaktipisteiden kehittäminen vai kokonaisvaltainen palvelutuotteiden tai -tarjooman kehittäminen. Palveluiden viestintään, myyntiin ja markkinointiin liittyvää kehittämistä voidaan tehdä myös palvelumuotoilun kautta, mutta missään nimessä ei tule unohtaa yrityksen sisäisen toiminnan tai prosessien kehittämistä. Jos organisaatio käyttää johtotasolla palvelumuotoilua, on mahdollista myös organisaation koko liiketoiminnan kehittäminen läpileikkaavana prosessina.
+Määritellä, millaisesta kehittämisestä on kyse eli mikä on kehittämisen kohde valitulla tasolla. Kehittäminen eroaa paljon riippuen siitä, onko kyseessä palveluprosessien ja kontaktipisteiden kehittäminen vai kokonaisvaltainen palvelutuotteiden tai -tarjooman kehittäminen. Palveluiden viestintään, myyntiin ja markkinointiin liittyvää kehittämistä voidaan tehdä myös palvelumuotoilun kautta, mutta missään nimessä ei tule unohtaa yrityksen sisäisen toiminnan tai prosessien kehittämistä. Jos organisaatio käyttää johtotasolla palvelumuotoilua, on mahdollista myös organisaation koko liiketoiminnan kehittäminen läpileikkaavana prosessina.   
+Ei ole kuitenkaan yksinkertaista hahmottaa, mitä vaikutuksia palvelumuotoilulla voidaan saavuttaa organisaatiossa. Palvelumuotoilutoiminta voi olla yksittäisiin palveluihin keskittyvää, mutta palvelumuotoilun menetelmiä ja toimintatapoja voidaan hyödyntää myös erilaisissa interventioissa, jotka pyrkivät muovaamaan organisaation toimintakulttuuria ja pidemmälle vietynä jopa organisaatiomuutosta.   
 
-Ei ole kuitenkaan yksinkertaista hahmottaa, mitä vaikutuksia palvelumuotoilulla voidaan saavuttaa organisaatiossa. Palvelumuotoilutoiminta voi olla yksittäisiin palveluihin keskittyvää, mutta palvelumuotoilun menetelmiä ja toimintatapoja voidaan hyödyntää myös erilaisissa interventioissa, jotka pyrkivät muovaamaan organisaation toimintakulttuuria ja pidemmälle vietynä jopa organisaatiomuutosta
+Palvelut ovat riippuvaisia organisaatioiden sisäisistä elementeistä, ja palvelumuotoilijan tulee havainnoida, mikä on heidän asemansa ja roolinsa organisaatiossa.   
 
-Palvelut ovat riippuvaisia organisaatioiden sisäisistä elementeistä, ja palvelumuotoilijan tulee havainnoida, mikä on heidän asemansa ja roolinsa organisaatiossa.
-
-Organisaation elementtien kautta on helpompi ymmärtää, miten syvälle muotoilulla kannattaa yrittää vaikuttaa piileviin tasoihin. Helpoiten muutos tapahtuu fyysisissä asioissa ja asiakasrajapinnan käyttäytymisessä. Mitä syvemmälle organisaation elementteihin mennään, sitä enemmän se vaatii myös jokaiselta työntekijältä oman toiminnan arvioimista ja itsensä tarkastelua ulkopuolisin silmin. Muutos tapahtuu aina sisältäpäin, ja tällöin eri sidosryhmien sitoutuminen ja osallistuminen kehittämiseen on olennaista.
+Organisaation elementtien kautta on helpompi ymmärtää, miten syvälle muotoilulla kannattaa yrittää vaikuttaa piileviin tasoihin. Helpoiten muutos tapahtuu fyysisissä asioissa ja asiakasrajapinnan käyttäytymisessä. Mitä syvemmälle organisaation elementteihin mennään, sitä enemmän se vaatii myös jokaiselta työntekijältä oman toiminnan arvioimista ja itsensä tarkastelua ulkopuolisin silmin. Muutos tapahtuu aina sisältäpäin, ja tällöin eri sidosryhmien sitoutuminen ja osallistuminen kehittämiseen on olennaista.   
 
 Palvelumuotoilua voidaan hyödyntää organisaatioissa monin eri tavoin ja monella eri tasolla. Muotoilun kypsyystasot (design maturity) kuvastavat organisaation kykyä hyödyntää muotoilua osana organisaation toimintaa. Palvelumuotoilun tai muotoilun käyttöä yleensä, voi verrata tikapuihin tai askelmiin, joita pitkin muotoilu vakiinnuttaa asemansa organisaation toiminnassa. Muotoilun tikkaat (design ladder) on yksi keino kuvastaa organisaation kypsyyttä muotoilun hyödyntämisessä. Varsinkin pitkään toimineissa organisaatioissa on havaittavissa tiettyjen askelmien läpikäyminen ennen kuin palvelumuotoilu saavuttaa vakiintuneen aseman organisaatiossa. On myös mielenkiintoista seurata, kuinka muotoiluvetoiset start-up-yritykset toimivat, kun muotoiluajattelu on ollut toiminnan läpileikkaavana osana aina bisnesideasta lähtien.
 
@@ -742,8 +738,8 @@ Projektien kesto voi vaihdella niin julkisella kuin yksityisellä sektorilla. La
 
 Julkisten palveluiden osalta on huomioitava vahvasti niihin liittyvien palveluiden muuttamisen hitaus. Siinä, missä yritykset voivat melko vapaasti järjestää palvelukehityksensä sellaisessa muodossa kuin haluavat, on julkisten palveluiden kehittämiseen liittyvä byrokratia ja päätäntäprosessit hitaampia ja jäykempiä. Palvelumuotoilu voikin parhaimmillaan antaa eväitä nopeiden kokeilujen tekemiseen ja prosessien ketterään kehittämiseen myös julkisten palveluiden osalta. Palvelumuotoilu mahdollistaa kaikkien sidosryhmien asettumisen tasavertaisiksi kehittäjiksi osana yhteiskehittämisprosessia, ja näin osa hierarkkisista ja organisaation rakenteiden aiheuttamista haasteista voi väistyä palvelukehityksen tieltä.
 
-Rae, J., Fishman, T., Chew, B., Doyle, A. T. & Nelson, C. (6 June 2019). Service design in government. Deloitte Insights. Saatavilla: <https://www2.deloitte.com/us/en/insights/industry/public-sector/implementing-service-design-in-government.html>
+[Rae, J., Fishman, T., Chew, B., Doyle, A. T. & Nelson, C. (6 June 2019). Service design in government. Deloitte Insights. Saatavilla:](<https://www2.deloitte.com/us/en/insights/industry/public-sector/implementing-service-design-in-government.html>)
 
-Työ- ja elinkeinoministeriö & opetus- ja kulttuuriministeriö (2013). Muotoile Suomi – kansallinen muotoiluohjelma. Ehdotukset ohjelman strategiaksi ja toimenpiteiksi. Saatavilla: <https://tem.fi/documents/1410877/2901871/Kansallinen%20muotoiluohjelma/57768a95-f3a9-4397-88a4-6cdae8f20e01>
+[Työ- ja elinkeinoministeriö & opetus- ja kulttuuriministeriö (2013). Muotoile Suomi – kansallinen muotoiluohjelma. Ehdotukset ohjelman strategiaksi ja toimenpiteiksi. Saatavilla:](<https://tem.fi/documents/1410877/2901871/Kansallinen%20muotoiluohjelma/57768a95-f3a9-4397-88a4-6cdae8f20e01>)
 
-Video: Kun palvelumuotoilija lähtee projektista lähtee myös syvätietämys asiakkaasta mukaan. 
+## Videon kiteytys: Kun palvelumuotoilija lähtee projektista lähtee myös syvätietämys asiakkaasta mukaan. 
