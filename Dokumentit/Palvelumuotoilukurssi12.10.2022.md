@@ -745,6 +745,6 @@ Julkisten palveluiden osalta on huomioitava vahvasti niihin liittyvien palveluid
 
 [Rae, J., Fishman, T., Chew, B., Doyle, A. T. & Nelson, C. (6 June 2019). Service design in government. Deloitte Insights. Saatavilla:](<https://www2.deloitte.com/us/en/insights/industry/public-sector/implementing-service-design-in-government.html>)
 
-[Työ- ja elinkeinoministeriö & opetus- ja kulttuuriministeriö (2013). Muotoile Suomi – kansallinen muotoiluohjelma. Ehdotukset ohjelman strategiaksi ja toimenpiteiksi. Saatavilla:](<https://tem.fi/documents/1410877/2901871/Kansallinen%20muotoiluohjelma/57768a95-f3a9-4397-88a4-6cdae8f20e01>)
+[Työ- ja elinkeinoministeriö & opetus- ja kulttuuriministeriö (2013). Muotoile Suomi – kansallinen muotoiluohjelma. Ehdotukset ohjelman strategiaksi ja toimenpiteiksi. Saatavilla:](<https://tem.fi/documents/1410877/2901871/Kansallinen%20muotoiluohjelma/57768a95-f3a9-4397-88a4-6cdae8f20e01>)   
 
-## Videon kiteytys: Kun palvelumuotoilija lähtee projektista lähtee myös syvätietämys asiakkaasta mukaan. 
+Videon kiteytys: Kun palvelumuotoilija lähtee projektista lähtee myös syvätietämys asiakkaasta mukaan. 
