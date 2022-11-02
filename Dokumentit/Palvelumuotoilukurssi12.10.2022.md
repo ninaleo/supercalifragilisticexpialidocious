@@ -8,7 +8,7 @@
 
 -Tarkastelu ikkunalasimetaforan kautta, hyvä esimerkki siitä, kuinka käyttäjän/asiakkaan ja palveluntarjoajan näkemys laadukkaasta palvelusta eroaa (8% vs. 80%)
 
-[Päivän linkit:](https://www.bain.com/insights/keeping-up-with-your-customers)
+[Päivän linkit löytyy täältä](https://www.bain.com/insights/keeping-up-with-your-customers)
 
 **13.10.2022** 
 
