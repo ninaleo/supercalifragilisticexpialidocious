@@ -32,8 +32,8 @@ Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani e
 
 
 
-"## SPRINT 00 nämä on tässä varulta, jos keksin täydentää jotain
-"## SPRINT 01"
+# SPRINT 00 nämä ovat tässä varulta, jos keksin täydentää jotain
+## SPRINT 01
 ## SPRINT 02
 ## SPRINT 03
 ## SPRINT 04
