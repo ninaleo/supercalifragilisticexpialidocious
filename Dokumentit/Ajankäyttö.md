@@ -11,7 +11,7 @@ Päivitän sisältöä jatkuvasti.
 
 | | | | 
 |:-:|:-:|:-:| 
-| Aikataulu | Mitä tein | Mitä opin |
+| **Aikataulu** | **Mitä tein** | **Mitä opin** |
 | [SPRINT 00](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/2#tab-issues)| [3.10-7.20.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2000%20mit%C3%A4%20tapahtui.md) |  | 
 | [SPRINT 01](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/3#tab-issues) | [10.10-14.10.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2001%20Mit%C3%A4%20tapahtui.md) | [Mooc](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/Palvelumuotoilukurssi12.10.2022.md) |
 | [SPRINT 02](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/4#tab-issues) | [17.10-21.10.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2002%20mit%C3%A4%20tapahtui.md) | [Mooc](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/Palvelumuotoilukurssi12.10.2022.md) |
@@ -25,6 +25,9 @@ Päivitän sisältöä jatkuvasti.
 | [SPRINT 10](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/12#tab-issues) | [12.12-16.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2010%20mit%C3%A4%20tapahtui.md) | lisätään |
 | [SPRINT 11](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/13#tab-issues) | [19.12-23.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2011%20mit%C3%A4%20tapahtui.md) | lisätään |
 | [SPRINT 12](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/14#tab-issues) | [26.12-27.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2012%20mit%C3%A4%20tapahtui.md) | lisätään |
+
+
+Lisäksi verkossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä]](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/)
 
 ## SPRINT 00
 ## SPRINT 01
