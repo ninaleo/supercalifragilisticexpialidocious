@@ -32,17 +32,17 @@ Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani e
 
 
 
-(## SPRINT 00 nämä on tässä varulta, jos keksin täydentää jotain)
-(## SPRINT 01
-(## SPRINT 02
-(## SPRINT 03
-(## SPRINT 04
-(## SPRINT 05
+"## SPRINT 00 nämä on tässä varulta, jos keksin täydentää jotain
+"## SPRINT 01"
+## SPRINT 02
+## SPRINT 03
+## SPRINT 04
+## SPRINT 05
 ## SPRINT 06
 ## SPRINT 07
 ## SPRINT 08
 ## SPRINT 09
 ## SPRINT 10
 ## SPRINT 11
-## SPRINT 12)
+## SPRINT 12
 
