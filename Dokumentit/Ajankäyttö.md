@@ -9,6 +9,9 @@ Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pä�
 
 Päivitän sisältöä jatkuvasti.
 
+Lisäksi verkossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/)   
+
+
 | | | | 
 |:-:|:-:|:-:| 
 | **Aikataulu** | **Mitä tein** | **Mitä opin** |
@@ -27,7 +30,7 @@ Päivitän sisältöä jatkuvasti.
 | [SPRINT 12](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/14#tab-issues) | [26.12-27.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2012%20mit%C3%A4%20tapahtui.md) | lisätään |
 
 
-Lisäksi verkossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä]](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/)
+
 
 ## SPRINT 00
 ## SPRINT 01
