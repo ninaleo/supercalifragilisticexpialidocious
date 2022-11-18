@@ -11,7 +11,7 @@
 **09.11.2022**    
 * Ideasta yritykseksi liiketoimintasuunnitelma ja yrityksen verkkosivun suunnittelu ja toteutus.   
 
-**10.11.2022*    
+**10.11.2022**    
 * Ideasta yritykseksi liiketoimintasuunnitelma ja yrityksen verkkosivun suunnittelu ja toteutus.   
 
 **11.11.2022**    
