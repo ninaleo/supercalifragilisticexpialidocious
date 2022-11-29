@@ -6,7 +6,7 @@
 
 **22.11.2022** Tekstiilitiimin raportin aloittaminen ja työstäminen.   
 
-**23.11.2022** Yhteinen Zoom kaikkien opiskelijoiden kanssa, jonka jälkeen Tekstilitiimin Teams tapaaminen. Päätimme täyttää ensi kertaa varten Project planner value Canvas omien maidemme kohdalta.   
+**23.11.2022** Yhteinen Zoom kaikkien opiskelijoiden kanssa, jonka jälkeen Tekstilitiimin Teams tapaaminen. Päätimme täyttää ensi kertaa varten Project value propotion Canvas omien maidemme kohdalta.   
 
 **24.11.2022**   
 
