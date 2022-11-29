@@ -9,6 +9,7 @@
 **23.11.2022**Yhteinen Zoom kaikkien opiskelijoiden kanssa, jonka jälkeen Tekstilitiimin Teams tapaaminen. Päätimme täyttää ensi kertaa varten Project planner value Canvas omien maidemme kohdalta.   
 
 **24.11.2022**   
+
 **25.11.2022**Ideasta yritykseksi valmennus Kankaan Yritystehtaalla 8.30-12.00 ja sen jälkeen tehtävien työstöä.   
 
 
