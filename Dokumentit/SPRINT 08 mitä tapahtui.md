@@ -6,7 +6,9 @@
 
 **29.11.2022** Gitlab päivitystä ja Ideasta yritykseksi vaiheen 5 materiaalien läpikäyntiä ja kirjaamista Wordin kurssitiedostoon   
 
-**31.11.2022**   
+**30.11.2022** Koska on tärkeää tuntea kilpailijansa, päätin että tänään perjantain Ideasta yritykseksi valmennusta varten tutustumme yritysideamme kilpailijoihin.   
+Päivä alkoi kilpailijoihin ja heidän tuotteisiin tutustumalla kello 7.30. Suoritimme puolisoni kanssa tuotteiden maku- ja laatutestin kotiin noudettuna sekä osto- ja noutotilanteessa asiakkaanpalveluarvion.   
+Kello 10:00 meillä oli opiskelijoiden yhteinen Zoom- tapaaminen ja iltapäivällä 12:30 Tekstiilitiimin Teams-tapaaminen.
 
 **1.11.2022**   
 
