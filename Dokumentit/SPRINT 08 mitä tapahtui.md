@@ -10,6 +10,6 @@
 Päivä alkoi kilpailijoihin ja heidän tuotteisiin tutustumalla kello 7.30. Suoritimme puolisoni kanssa tuotteiden maku- ja laatutestin kotiin noudettuna sekä osto- ja noutotilanteessa asiakkaanpalveluarvion.   
 Kello 10:00 meillä oli opiskelijoiden yhteinen Zoom- tapaaminen ja iltapäivällä 12:30 Tekstiilitiimin Teams-tapaaminen.
 
-**1.11.2022**   
+**1.11.2022**   Materiaalien työstöä huomista varten
 
-**2.12.2022** 
+**2.12.2022** Ideasta yritykseksi valmennus, kannattavuuslaskelmia jne..
