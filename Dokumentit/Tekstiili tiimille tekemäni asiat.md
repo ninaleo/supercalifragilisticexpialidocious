@@ -8,5 +8,6 @@
 
 ## Loppupäätelmät   
 
-## Selvitys raportti Italian osalta
+## Selvitys raportti Italian osalta   
+![Selvitys, Italia](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Tekstiilitiimin_Raportti_Italia_Suomeksi.docx)
 
