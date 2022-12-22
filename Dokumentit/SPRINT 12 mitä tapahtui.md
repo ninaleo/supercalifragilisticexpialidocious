@@ -2,4 +2,5 @@
 
 ## Mitä viimeaikoina on tapahtunut? 
 
-**26.12.2022**
+**27.12.2022**   
+* Kurssin päätös kello 9-11.00
