@@ -9,7 +9,7 @@ Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pä�
 
 Päivitän sisältöä jatkuvasti.
 
-Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/). Tähän en panostanut kovinkaan paljoa vaan tein sitä hieman omaksi ilokseni.   
+Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. Sivulle pääset [tästä](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/). Tähän en panostanut ajallisesti sati muutenkaan, vaan tein sitä hieman omaksi ilokseni.   
 
 
 | | | | 
