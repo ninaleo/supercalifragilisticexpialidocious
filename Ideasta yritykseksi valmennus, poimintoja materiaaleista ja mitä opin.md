@@ -1,16 +1,16 @@
 # Ideasta yritykseksi valmennus, poimintoja materiaaleista ja mitä opin
 
 ## Koko valmennuksen sisältö:   
-Lähestymisnäkökulmia yrittäjyyteen   
-Liikeidea, tuotteet ja asiakkaat (4.12.2022)   
-Markkina-analyysi ja ostokriteerit (4.11.2022)   
-Kilpailija-analyysi (4.11.2022)   
-Hinnoittelu ja kannattavuuden analysointi (11.11.2022)   
-Myynnin ja markkinoinnin suunnittelu (18.11.2022)   
-Kassavirta (25.11.2022)   
-Rahoitus (2.12.2022)   
-Talouslaskelmien sparraus ja pitchaukseen valmistautuminen (9.12.2022)   
-Liikeidean esittäminen, pitchaus (16.12.2022)
+-   Lähestymisnäkökulmia yrittäjyyteen   
+-   Liikeidea, tuotteet ja asiakkaat (4.12.2022)   
+-   Markkina-analyysi ja ostokriteerit (4.11.2022)   
+-   Kilpailija-analyysi (4.11.2022)   
+-   Hinnoittelu ja kannattavuuden analysointi (11.11.2022)   
+-   Myynnin ja markkinoinnin suunnittelu (18.11.2022)   
+-   Kassavirta (25.11.2022)   
+-   Rahoitus (2.12.2022)   
+-   Talouslaskelmien sparraus ja pitchaukseen valmistautuminen (9.12.2022)   
+-   Liikeidean esittäminen, pitchaus (16.12.2022)
 
 ## Kotitehtäviä   
 
