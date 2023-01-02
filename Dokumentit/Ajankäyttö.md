@@ -5,7 +5,7 @@ Ajantasainen työajanseuranta projektin alusta alkaen löytyy excelistä. Seuran
 Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pääset tutustumaan tarkemmin sen sisältöön.   
 **"Aikataulu"-kohdassa** viikkosuunnitelma kyseiselle ajankohdalle.   
 **"Mitä tein"-kohdassa** kerron lyhyesti päivän päätteeksi mihin aika pääasiassa kului.   
-**"Mitä opin"-kohdassa** kerron mitä kyseisinä päivinä olen oppinut.   
+**"Mitä opin"-kohdassa** kerron mitä kyseisinä päivinä olen oppinut ja pääset katsomaan erilaisia tuotoksiani.   
 
 Päivitän sisältöä jatkuvasti.
 
