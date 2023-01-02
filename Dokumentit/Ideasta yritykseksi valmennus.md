@@ -1,1 +1,1 @@
-[Kurssin sisältö ja mitä opin](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/Mit%C3%A4OpinIdeastaYritykseksiValmennus.docx)
+[Kurssin sisältö ja mitä opin](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Ideasta%20yritykseksi%20valmennus,%20poimintoja%20materiaaleista%20ja%20mit%C3%A4%20opin.md)
