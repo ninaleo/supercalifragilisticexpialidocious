@@ -1,6 +1,6 @@
-## Ideasta yritykseksi valmennus, poimintoja materiaaleista ja mitä opin
+# Ideasta yritykseksi valmennus, poimintoja materiaaleista ja mitä opin
 
-# Koko valmennuksen sisältö: 
+## Koko valmennuksen sisältö: 
 
 Lähestymisnäkökulmia yrittäjyyteen
 Liikeidea, tuotteet ja asiakkaat (4.12.2022)
@@ -13,11 +13,11 @@ Rahoitus (2.12.2022)
 Talouslaskelmien sparraus ja pitchaukseen valmistautuminen (9.12.2022)
 Liikeidean esittäminen, pitchaus (16.12.2022)
 
-# Kotitehtäviä   
+## Kotitehtäviä   
 
-# 15.11.2022   
+## 15.11.2022   
 
-# Liikeidea, tuotteet ja asiakkaat
+## Liikeidea, tuotteet ja asiakkaat
 Tuoteasiakas matriisi:
 Tärkein dokumentti, joka on tärkeää tehdä huolella, jota on oikeat tuote- ja asiakas valinnat oikeat ja niitä myydään sopivaan hintaan ja sopivaan aikaan.
 Segmentointi= suuri asiakasryhmä jaetaan osioihin eli kohderyhmiin ja siten markkinointi on helpompaa ja selkeämpää.
@@ -44,8 +44,8 @@ Matriisin tekeminen:
 -	Tuotteen valmistumisen nopeus
 -	Tuotteen kyky tuoda kassavirtaa yritykseen   
 
-# 16.11.2022   
-# Markkina-analyysi ja ostokriteerit   
+## 16.11.2022   
+#3 Markkina-analyysi ja ostokriteerit   
 
 Alan kokonaismarkkinalla tarkoitetaan tuotteesta/palvelusta maksavien
 asiakkaiden ostotapahtumien määrää (kpl) sekä niiden muodostamaa
@@ -85,7 +85,7 @@ Markkinoiden segmentointi tarkoittaa yrityksen kokonaismarkkinoiden jakamista
 selvästi toisistaan erottuviin osamarkkinoihin, joita kutsutaan segmenteiksi.
 ❑ Segmentoinnilla tarkoitetaan toisistaan erottuvien ostajien ryhmien tunnistamista,
 jotka vaativat erilaisia tuotteita ja/tai markkinointikeinoja.
-❑ Ryhmittelyn perustaksi valitaan jokin asiakastarpeista johdettu segmentointiperuste,
+- Ryhmittelyn perustaksi valitaan jokin asiakastarpeista johdettu segmentointiperuste,
 kuten esimerkiksi tuotevaatimukset, hintataso, ostokanava tai ostovolyymi.
 Segmentoinnin vaiheet ovat:
 1. Asiakassegmenttien tunnistaminen valitulta markkina-alueelta
@@ -105,8 +105,8 @@ Markkina-analyysissä selvitetään mm. seuraavia asioita:
 •	Millaisia asiakkaiden tarpeet, toiveet, arvot, elämäntyylit, osto- ja kulutustottumukset ovat? 
 •	Onko asiakkaiden ostokäyttäytyminen muuttumassa?   
 
-# 18.11.2022
-# Kilpailija-analyysi   
+#3 18.11.2022
+## Kilpailija-analyysi   
 Suorat kilpailijat:
 Välilliset kilpailijat: 
 -	Miksi asiakkaat ostavat nykyisiltä toimittajilta? (käyttää rahan, ajan, vaivan ym. vai onko se vain tottumus?)
@@ -144,17 +144,17 @@ Sain kilpailija-analyysin mielestäni hyvin tehtyä.
 Kilpailijat valikoituivat aukioloaikojen ja tuotteiden ”vastaavuuden” mukaan. Ennen kello kahdeksaa avaavia kilpailijoita ei ole montaa. Kilpailija-analyysiin valikoitui Miriam`s, Mestarin herkun paistopiste ja Subway pikaruokaloista, koska siellä on ”leipätuotteita” vaikkakin liike avaa vasta huomattavasti myöhemmin ja siksi ei kilpaile varhaisista asiakkaista. 
 
 
-# 25.11.2022 
+## 25.11.2022 
 
-# Hinnoittelu ja kannattavuuden analysointi
+## Hinnoittelu ja kannattavuuden analysointi
 
 Täytä esimerkki ylempi kahdesta ammattiharjoittajan kannattavuuslaskelmasta (jos ravintolapuolen taulukko on parempi, niin täytä sitä)
 Tavoitetulos
 Myynti tavoite pv/tunti.
 
 
-# 2.12.2022
-# Myynnin ja markkinoinnin suunnittelu
+#3 2.12.2022
+## Myynnin ja markkinoinnin suunnittelu
 
 
 
