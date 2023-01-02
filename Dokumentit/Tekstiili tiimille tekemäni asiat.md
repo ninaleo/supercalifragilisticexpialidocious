@@ -10,5 +10,5 @@
 ## Loppupäätelmät   
 
 ## Selvitys raportti Italian osalta   
-![Selvitykseen pääset tästä](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Tekstiilitiimin_Raportti_Italia_Suomeksi.docx)
+![Selvitykseen pääset tästä](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Tekstiilitiimin%20raportti%20Italiasta.md)
 
