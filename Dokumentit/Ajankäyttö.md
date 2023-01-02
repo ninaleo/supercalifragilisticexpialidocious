@@ -25,24 +25,11 @@ Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani e
 | [SPRINT 07](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/9#tab-issues)| [21.11-25.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2007%20mit%C3%A4%20tapahtui.md) | lisätään |
 | [SPRINT 08](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/10#tab-issues) | [28.11-2.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2008%20mit%C3%A4%20tapahtui.md) | lisätään |
 | [SPRINT 09](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/11#tab-issues) | [5.12-9.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2009%20mit%C3%A4%20tapahtui.md) | lisätään |
-| [SPRINT 10](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/12#tab-issues) | [12.12-16.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2010%20mit%C3%A4%20tapahtui.md) | lisätään |
-| [SPRINT 11](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/13#tab-issues) | [19.12-23.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2011%20mit%C3%A4%20tapahtui.md) | lisätään |
-| [SPRINT 12](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/14#tab-issues) | [26.12-27.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2012%20mit%C3%A4%20tapahtui.md) | lisätään |
+| [SPRINT 10](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/12#tab-issues) | [12.12-16.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2010%20mit%C3%A4%20tapahtui.md) | [Pitchaus](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/Ideasta_yritykseksi_2022.mp4) |
+| [SPRINT 11](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/13#tab-issues) | [19.12-23.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2011%20mit%C3%A4%20tapahtui.md) | Git sivujen päivitystä |
+| [SPRINT 12](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/milestones/14#tab-issues) | [26.12-27.12.2022](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/SPRINT%2012%20mit%C3%A4%20tapahtui.md) | [Tekstiilitiimin loppuraportti](https://gitlab.labranet.jamk.fi/service-design/supercalifragilisticexpialidocious/-/blob/master/Dokumentit/Tekstiili%20tiimille%20tekem%C3%A4ni%20asiat.md) |
 
 
 
 
-# SPRINT 00 nämä ovat tässä varulta, jos keksin täydentää jotain
-## SPRINT 01
-## SPRINT 02
-## SPRINT 03
-## SPRINT 04
-## SPRINT 05
-## SPRINT 06
-## SPRINT 07
-## SPRINT 08
-## SPRINT 09
-## SPRINT 10
-## SPRINT 11
-## SPRINT 12
 
