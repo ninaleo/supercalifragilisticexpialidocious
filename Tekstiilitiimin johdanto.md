@@ -1,4 +1,4 @@
-#Johdanto
+# Johdanto
 
 Vuosia sitten tiimin toisella osapuolella ja selvityksen tilaajalla Elena Tuomikoskella oli yritys, jonka tarkoituksena oli järjestää tekstiilijätteiden kerääminen Venäjällä, niiden jatkokäsittely Suomessa ja viedä uusiokuituja takaisin Venäjälle uusiokäyttöön. Yritystä varten oli suunniteltu verkkoalusta, joka yhdistää tekstiilijätteiden omistajat, tekstiilijätteiden jatkokäsittelijät ja uusiokuitujen jatkokäsittelijät.   
 Sodan seurauksena yritys Venäjällä on lakkautettu, mutta idea jäi ja siksi alettiin pohtia, kuinka vastaava liikeidea saataisi toimimaan muualla Euroopassa.   
