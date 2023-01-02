@@ -4,7 +4,7 @@
 
 **12.10.2022**
 
-# **1.0 Johdanto**
+## **1.0 Johdanto**
 
 -Tarkastelu ikkunalasimetaforan kautta, hyvä esimerkki siitä, kuinka käyttäjän/asiakkaan ja palveluntarjoajan näkemys laadukkaasta palvelusta eroaa (8% vs. 80%)
 
@@ -12,7 +12,7 @@
 
 **13.10.2022** 
 
-# **2.1  Onko palvelu + muotoilu = palvelumuotoilu?**
+## **2.1  Onko palvelu + muotoilu = palvelumuotoilu?**
 
 **Palvelut**. Yksinkertaisesti, jos vuorovaikutusta ei tapahdu sinun ja palveluntuottajan välillä, ei myöskään palvelua ole olemassa. Kolmas merkittävä seikka palveluita tarkastellessa on, että ne ovat aikaan sidottuja. Palveluita ei voida säilöä varastoihin odottamaan myyntihetkeä, vaan palvelu tapahtuu sillä nimenomaisella hetkellä, kun vuorovaikutus tapahtuu sinun ja palveluntuottajan välillä. Kiteyttäen voidaan todeta, että palvelut ovat aineettomia ja ajassa tapahtuvia vuorovaikutteisia prosesseja, jotka syntyvät vuorovaikutuksessa sinun ja palveluntuottajan välillä ja tuottavat lähtökohtaisesti sinulle arvoa   
 
@@ -50,7 +50,7 @@ Video: Palvelun kehittämistä muotoilun keinoin, ihminen aina keskiössä ihmis
 
 **14.10.2022**
 
-# **2.2 Palvelumuotoilun historia ja sen kehittyminen**
+## **2.2 Palvelumuotoilun historia ja sen kehittyminen**
 
 Yhteiskehittäminen ja käyttäjien osallistaminen muotoiluprosessiin on muodostunut yhdeksi palvelumuotoilun tärkeimmistä kulmakivistä, jolloin ajatuksena on, että muotoilua ei tehdä pelkästään ihmisiä varten vaan ihmisten kanssa.
 
@@ -60,7 +60,7 @@ Palvelumuotoilun keskeisimpänä toimintana on alkuajoista lähtien ollut palvel
 
 Yrityksissä palvelumuotoilu on tukenut erityisesti liiketoiminnan kehittämistä sekä yrityksen kilpailukyvyn kasvattamista.
 
-# **2.3 Palvelumuotoilu ja muotoiluajattelu**
+## **2.3 Palvelumuotoilu ja muotoiluajattelu**
 
 Palvelumuotoilu ei kuitenkaan ole sama asia kuin muotoiluajattelu, sillä palvelumuotoilussa keskitytään nimenomaan palveluihin ja aineettomiin kokemuksiin sekä hyödynnetään palvelukehittämiseen soveltuvia menetelmiä.
 
@@ -99,8 +99,8 @@ Ajan saatossa palvelumuotoilu on laajentunut, mutta kaikki ei ole palvelumuotoil
 Palvelumuotoilu on ajattelutapapa, työprosessi ja työkalupakki
 
 - **Päivän linkki**: muotoiluajattelun soveltamisesta erilaisissa tilanteissa, <https://thisisdesignthinking.net/design-thinking-stories/>
-# **2.4 Pohjoisen näkökulma palvelumuotoiluun**
-# Oma huomio: Suuri ärsytys..
+## **2.4 Pohjoisen näkökulma palvelumuotoiluun**
+## Oma huomio: Suuri ärsytys..
 Tämä osio tuntui väkisin tehdylle. Mielestäni nimi paikallinen palvelumuotoilu olisi osuvampi nimi. Pohjoisuus ei näkynyt ympäripyöreissä selityksissä selityksissä mitenkään.   
 Mielestäni peruste muotoilun yksilöitymiselle ei ole pitkät välimatkat ja sääolosuhteet. Jokaisessa paikassa on omat maantieteelliset ja kulttuurilliset haasteet ja perinteet. Tässä osiossa minusta tuntui, että elämästäni meni osuuden verran aikaa hukkaan.   
 * Video 1: Arktinen muotoilu (geokgrafinen määritelmä) (pohjoinen muotoilu kulttuurisempi käsite) yksinkertaistettua, selkeää,järkeenkäyvää, luonto maanläheisyys mukana. Molemmissa suunnitellaan ääriolosuhteissa, joten meilä on monenlaista osaamista. (kaikkialla pätee sama)   
@@ -109,7 +109,7 @@ Linkittyy alkuperäiskansatietoon, liittyy respectfull- designiin, kunnioitetaan
 Kattokäsitteenä muotoilu, sen alla teollinen-, palvelu-, arktinen-, pohjoinenmuotoilu sama pohja eri vivahteilla    
 * Video 3: Palvelumuotoilun suhde arktiseenmuotoiluun. Tuottaa ratkaisuja pohjoisen tarpeisiin, ratkaisut inhimillisen kestävyyden näkökulmasta.Perustavanlaatuista palvelumuotoilua.
 * Video 4: Lapin yliopistossa palvelumuotoilu kulttuurilähtöistä. Horisonttihanke Amas menossa.Ihmiskeskeinen ote palvelumuotoilussa todella vahva. (kuuluisi olla aina)
-# **3.0 MUOTOILUN PÄÄPERIAATTEET**
+## **3.0 MUOTOILUN PÄÄPERIAATTEET**
 *Palvelumuotoilu on kokonaisvaltaista* suunnittelutyötä. Palvelumuotoilussa tarvitaan *joustavaa ajattelua*, jossa vaihtelee luova ja analyyttinen ajattelu. Ajattelutapa ammentaa elementtejä vahvasti muotoiluajattelun puolelta. Palvelumuotoilun ydintä on *ihmislähtöisyys* ja *yhteiskehittäminen.* Palvelumuotoilua tarkasteltaessa prosessitasolla voidaan huomata siinä vahvaa *iteratiivisuutta*, jossa toiminta on *konkretiaan* nojaavaa käytännön tekemistä.
 
 * Video: Ketkä ovat palvelumuotoilun keskiössä: Me kaikki, ei vain käyttäjä vaan sidosryhmään kuuluu palvelumuotoilija, käyttäjä, ammattilaiset ja muut ihmiset. Riippuu mikä ilmiö on kehittämisen kohteena.
@@ -144,7 +144,7 @@ Ihmislähtöisen suunnittelun metodeja: [https://www.designkit.org/methods](htt
 
 Ihmislähtöisen suunnittelun esimerkkejä: [https://www.designkit.org/case-studies](https://www.designkit.org/case-studies)
 
-# **3.3 Yhteiskehittäminen**
+## **3.3 Yhteiskehittäminen**
 
 yhteiskehittäminen, joka tarkoittaa, että suunnitteluprosessiin otetaan mukaan sekä asiakas tai palvelun loppukäyttäjä kuin myös palveluntarjoajan näkökulmasta palveluun kytköksissä olevat sidosryhmät. Suunnittelu tapahtuu monialaisissa tiimeissä, joihin osallistuvilla on kaikilla oma näkökulmansa palvelun keskeisestä sisällöstä. Suunnittelupöydän ympärillä voi istua loppukäyttäjiä edustavia henkilöitä, palveluhenkilöstöä, johtajia, eri osastojen henkilöstöä, logistiikkahenkilöstä jne.
 
@@ -158,7 +158,7 @@ Tuo kivan ja hauskan tavan käsitellä ja työstää muotoilua yhdessä.
 
 Video2:Tutustuminen tärkeä. Selvitä mukana olijoiden odotukset, miksi ovat työpajassa, ettei kukaan tule loukatuksi tai ettei paja etäännytä ihmisiä toisistaan enempää.
 
-# **3.4 Konkreettisuus**
+## **3.4 Konkreettisuus**
 
 Konkreettisuus tai joissain muodoissa myös ’todenperäisyys’ on keskeinen osa palvelumuotoilua. Konkreettisuuden tarkastelu lähtee liikkeelle jo palvelumuotoiluprosessin alussa, jossa palvelutarpeesta ja käyttäjien kontekstista pyritään saamaan niin todenmukainen kuva kuin mahdollista. Taustatutkimuksessa on myös tärkeää, ettei työtä tehdä vain työpöydän ääressä, vaan potentiaalisiin käyttäjiin ja asiakkaisiin pyritään olemaan suoraan yhteydessä esimerkiksi haastatteluiden, kohderyhmä -työskentelyn (focus group) tai osallistavien työpajojen kautta. Käyttäjiä voi myös havainnoida palveluympäristössä tai heitä voi pyytää tekemään muotoilun luotaimen, jolloin kuvatut kokemukset eivät välttämättä liity suoraan tiettyyn palveluun vaan esimerkiksi arkisiin askareisiin.
 
@@ -170,7 +170,7 @@ prosessin alkuvaiheessa ei ole järkevää käyttää aikaa viimeisteltyjen ja y
 
 Palveluiden toteutuksessa konkreettisuus näkyy niin fyysisissä kuin digitaalisissakin palveluympäristöissä. Erilaiset palveluelementit, kuten opastukset, ohjeistukset, erilaiset palvelua todentavat symbolit, kuten lääkärin valkoinen takki lääkärin roolin varmentamisessa, ovat osa palvelun konkretisoimista. Myös palvelun arvon todentavat objektit, kuten palvelusta saatu kuitti, ovat osa palvelun konkretisointia. Digitaalisessa palveluympäristössä palveluprosessin selkeä esittäminen ja käyttäjän ohjaaminen palvelun vaiheesta toiseen konkretisoivat palvelua ja sen arvoa.
 
-# **3.5 Prosessien interatiivisuus**
+## **3.5 Prosessien interatiivisuus**
 
 Palvelumuotoilun prosessille ominaista on iteratiivisuus eli itseänsä toistava prosessi, joka perustuu toistuvan kokeilun kautta oppimiseen.
 
@@ -186,7 +186,7 @@ Termit **”quick and dirty”** -menetelmästä, joka viittaa nopeaan prototypo
 
 **31.10.2022**
 
-# **3.6 Joustava ajattelu**
+## **3.6 Joustava ajattelu**
 
 *Divergentti ajattelu on konvergentin vastakohta*, jossa luovuus on tärkeässä roolissa. Divergentille ajattelulle tyypillistä on sujuvuus, joustavuus, ideoiden kehittely ja täsmennykset sekä omaperäisyys. Divergentti ajattelu perustuu intuitioon, mielikuvitukseen ja asioiden vapaaseen yhdistelyyn, joiden avulla lähdetään luomaan useita vaihtoehtoisia ratkaisuja ongelmaan, jossa yhtä oikeaa ratkaisua ei ole. Divergentissä ajattelussa ratkaisua haetaan tarkastelemalla ongelmaa eri lähestymistavoilla ja näkökulmista. Divergentti ajattelu on suunnittelijan työkaluna silloin, kun vastausta ongelmaan tai seuraavaa vaihetta ei vielä tiedetä.
 
@@ -200,7 +200,7 @@ Tehtävä,30 ympyrää minuutissa- tehtävä on Tim Brownin TED-puheessaan Tales
 
 Piirrä vierustoverisi aikaa 30sek.
 
-# **3.7 Kokonaisvaltaisuuus eli holistisuus**
+## **3.7 Kokonaisvaltaisuuus eli holistisuus**
 
 Palvelumuotoilussa pyritään katsomaan palvelua laajasta näkökulmasta ja hahmottamaan sen osia kokonaisuutena. Palvelumuotoilu pyrkii ymmärtämään niin palvelun loppukäyttäjää, kassatyöntekijää, hyllyttäjää, toimistotyöntekijää, johtajaa kuin tavarantoimittajaakin. Palvelumuotoilija pohtii myös niitä käyttäjiä, jotka eivät välttämättä halua käyttää palvelua tai ovat tilanteen pakosta osa palvelua, kuten väsynyt murrosikäinen ruokakaupassa, aviomies naistenvaateosastolla, vauva kahvilassa tai koira kahvilan ulkopuolella.
 
@@ -212,13 +212,13 @@ on tärkeää tarkastella palveluympäristöä laajana kokonaisuutena: mitä kai
 
 Tänä päivänä palvelujen käyttäjät muodostavat käsityksensä palveluntuottajasta yhä enenevissä määrin palvelukokemuksen kautta. Tämän vuoksi on tärkeää, että palveluntarjoaja pystyy toimittamaan arvolupauksensa mukaisia positiivisia kokemuksia uudestaan ja uudestaan. Tämän vuoksi palvelumuotoilijan täytyy ymmärtää palveluntuottajan organisaatiorakennetta, sisäistä toimintakulttuuria ja prosesseja, jotta organisaation toimintakulttuuria, arvoja, asenteita, rakenteita ja toimintamalleja pystytään kehittämään ja sitouttamaan käyttäjälähtöiseksi ja kokonaisvaltaista palvelukokemusta tukevaksi.
 
-# **4 Palvelumuotoilun osatekijät**
+## **4 Palvelumuotoilun osatekijät**
 
-# **4.1 Johdanto aiheeseen**
+## **4.1 Johdanto aiheeseen**
 
 Palvelu on ajassa etenevä dynaaminen prosessi, ja se koostuu useista toisiaan kiinteästi seuraavista tärkeistä hetkistä, joista muodostuu kokonaisvaltainen palvelupolku ja palvelukokemus. Karkeasti jaoteltuna palvelu voidaan jakaa kolmeen vaiheeseen eli ennen palvelua, palvelun aikana ja palvelun jälkeen tapahtuvat tapahtumat. Näiden vaiheiden sisällä puolestaan on useita tärkeitä palvelutuokioita ja kontaktipisteitä. 
 
-# **1.** Mitä tapahtuu ***ennen palvelua?***
+## **1.** Mitä tapahtuu ***ennen palvelua?***
 
   - Syy miksi päätät mennä elokuviin (mainokset, ystävän suositus jne.) 
   - Tapa millä etsit tietoa elokuvasta ja näytösajoista (nettisivut, elokuvateatterin infotiski tai palvelunumero jne.) 
@@ -226,7 +226,7 @@ Palvelu on ajassa etenevä dynaaminen prosessi, ja se koostuu useista toisiaan k
   - Miten menet elokuviin (kävellen, pyörällä, julkisella liikenteellä, omalla autolla)?
   - Tarvitseeko elokuviin menemisessä varautua johonkin (pyöräparkin löytäminen, julkisen liikenteen aikataulu, parkkipaikan löytäminen omalle autolle jne.)?
 
-# **2.** Mitä tapahtuu ***palvelun aikana?*** 
+## **2.** Mitä tapahtuu ***palvelun aikana?*** 
 
   - Mistä tiedät mistä ovesta mennään elokuvateatteriin?
   - Mistä tiedät miten tiloissa tulee liikkua (missä on lippuluukku, missä on oman elokuvasalisi sijainti, missä ovat tiedot elokuvan aloituksesta, missä ovat vessat, mistä saa syötävää mukaan elokuviin, miten löydät oman paikkasi salissa jne.)? 
@@ -235,7 +235,7 @@ Palvelu on ajassa etenevä dynaaminen prosessi, ja se koostuu useista toisiaan k
   - Tarjoaako elokuvateatteri elokuvan aikana mahdollisuuden tilata syötävää tai juotavaa?
   - Miten muiden asiakkaiden toiminta vaikuttaa kokemukseen (puhelimen käyttö elokuvan aikana, äänekäs syöminen tai juominen, äänekäs eläytyminen elokuvaan, liikkuminen elokuvateatterisalissa jne.)?
 
-# **3.** Mitä tapahtuu ***palvelun jälkeen*** esim.  
+## **3.** Mitä tapahtuu ***palvelun jälkeen*** esim.  
 
   - Miten elokuvasalista pääsee pois ?
   - Keskusteletko tai annatko palautetta elokuvasta jälkeenpäin (ystävien tai perheen kanssa, keskustelufoorumit, arvostelusivustot jne.)?
@@ -245,7 +245,7 @@ Palvelu on ajassa etenevä dynaaminen prosessi, ja se koostuu useista toisiaan k
 
 Tässä palvelu on kuvattu kovin yksipuolisesti palvelun käyttäjän näkökulmasta. Jotta onnistunutta palvelua voidaan lähteä suunnittelemaan, täytyy näkökulman olla laajempi ja palvelu on pystyttävä palastelemaan systemaattisesti pienempiin osiin. Tässä paketissa käydään läpi palvelun perustasot, jossa pureudutaan tarkemmin palvelun kokonaisvaltaiseen tarkasteluun. Lisäksi tarkastellaan kontaktipisteitä, palvelutuokioita ja palvelupolkuja, joiden avulla palvelun suunnittelua pystytään jakamaan pienempiin osiin. Lopuksi tutustutaan service blueprintiin, joka on yksi yleisimmin käytetyistä palvelumuotoilun työkaluista ja jonka avulla pystytään luomaan palvelukokonaisuus näkyväksi.
 
-# **4.2 Palvelun perustasot**
+## **4.2 Palvelun perustasot**
 
 Palvelu voidaan jakaa karkeasti kolmeen perustasoon eli etu- ja takaosaan sekä niitä erottavaan seinään. Näistä peruselementeistä muodostuu palvelun kokonaisuus, joka voidaan nähdä myös teatterin tyyppisenä kokonaisuutena. Se muodostuu näyttämön etuosasta (frontstage) ja näyttämön takaosasta (backstage), joiden väliin jää näyttämöverho (line of visibility). **Näyttämöllä etuosassa** toimii palvelun käyttäjä, joka kulkee läpi näyttämön pitkin palvelupolkua. Se on jakautunut useampaan palvelutuokioon. Näyttämön etuosassa oleva käyttäjä näkee palvelusta vain osan: tuotteet, asiakaspalvelijat, käyttöliittymät jne.
 
@@ -258,7 +258,7 @@ Palvelu voidaan jakaa karkeasti kolmeen perustasoon eli etu- ja takaosaan sekä 
 ***sisäisen vuorovaikutuksen linja*** (*line of internal interaction*), joka viittaa vuorovaikutustapahtumiin palveluun suoraa vaikuttavan takaosan tekijöiden ja palveluun epäsuorasti vaikuttavien eli palvelun tukipalveluiden välillä.
 
 Palvelumuotoilun ytimessä on suunnitella palvelun käyttäjälle kokonaisvaltainen palvelukokemus, joka muodostuu palvelun etuosassa tapahtuvien osatekijöiden kautta ja jota palvelun takaosassa tapahtuvat osatekijät puolestaan tukevat. Jotta palvelukokemuksen suunnitteluun päästään käsiksi, voidaan kokemus paloitella mainittuihin osatekijöihin*:* palvelupolkuun, palvelutuokioihin ja kontaktipisteisiin*.*
-# **4.3 Palvelutuokiot ja palvelupolku**
+## **4.3 Palvelutuokiot ja palvelupolku**
 **Palvelutuokiot** ovat palvelun keskeisiä tapahtumia eli osapalveluja, joissa tapahtuu palvelun tuotanto sekä käyttäjän ja palveluntarjoajan välinen vuorovaikutus. Esimerkiksi aikataulujen tarkastaminen aikataulunäytöltä ja lipun ostaminen mobiilisovelluksella ovat esimerkkejä palvelutuokioista.
 
 Kun käyttäjä kulkee läpi palvelutuokioiden, niistä muodostuu palvelukokonaisuus eli **palvelupolku** sekä kokonaisvaltainen palvelukokemus. Huomattavaa on, että käyttäjä kokee palvelupolun moninaiset palvelutuokiot ja niihin sidotut kontaktipisteet yksilöllisesti riippuen siitä, minkälaisia valintoja käyttäjä itse tekee ja minkälaisia vaihtoehtoisia tapoja ja kanavia palveluntuottaja tarjoaa yksittäisten palveluprosessin vaiheiden kuluttamiseen. Esimerkiksi junamatkustamisen palvelupolku voi muodostua hyvin erilaiseksi sen mukaan, ostatko junalipun etukäteen internetistä, juna-aseman automaatista vai suoraan konduktööriltä. Junasta ostettu lippu saattaa kaduttaa siinä vaiheessa, kun kolmannen kerran joudut vaihtamaan paikkaa paikkalipun puuttumisen vuoksi, ja näin ollen palvelukokemuksesta muodostuu omanlaisensa. Palvelumuotoilun suunnittelun pohjaksi pyritäänkin muodostamaan käsitys yleisimmistä käyttäjän toimintamalleista ja tarpeista, jotka vaikuttavat valintoihin palvelua kulutettaessa. Käsitys eri palvelupolkuvaihtoehdoista auttaa ottamaan huomioon kuluttajien erilaiset tarpeet asiakaskokemuksen suunnittelussa.
@@ -277,7 +277,7 @@ Palvelupolkujen ja -tuokioiden avulla voidaan rakentaa myös täysin uutta palve
 
 ` `Service Design Show: 7 Tips to create customer journey maps that don’t suck [https://www.servicedesignshow.com/customer-journey/best-practices/ ](https://www.servicedesignshow.com/customer-journey/best-practices/)
 
-# **4.4 Kontaktipisteet**
+## **4.4 Kontaktipisteet**
 
 Jokaisessa palvelutuokiossa on lukuisia kontaktipisteitä, joiden kautta käyttäjä kokee, aistii ja näkee palvelun. Kontaktipisteet ovat kaikilla aisteilla havaittavia (näkö, kuulo, haju, maku, tunto, tasapaino). Palvelutuokioita suunniteltaessa tulee pohtia tarkkaan, mitkä kontaktipisteet ovat palvelunkäyttäjän kannalta tärkeitä sekä tuovat arvoa vähin kustannuksin. Jokainen kontaktipiste tulee suunnitella toisiinsa nähden johdonmukaiseksi, selkeäksi kokonaisuudeksi, joka muodostaa palvelun käyttäjälle yhtenäisen useiden kanavien kautta muodostuvan palvelukokemuksen.
 
@@ -299,7 +299,7 @@ Kontaktipisteet voidaan jakaa neljään eri ryhmään: kanavat, esineet, toimint
 
 * hmiset: perhe, asiakaspalvelija eli lipuntarkastaja, kanssamatkustajat
 
-# **4.5 Palvelukokonaisuuden näkyväksi tekeminen: service blueprint**   
+## **4.5 Palvelukokonaisuuden näkyväksi tekeminen: service blueprint**   
 Näkymättömän palvelun näkyväksi tekeminen on tärkeää, jotta sitä voidaan tarkastella ja kehittää. Palvelumuotoilussa yksi yleisimmistä työkaluista hahmottaa kehitettävää palvelua kokonaisvaltaisesti on service blueprint. (1984) eli palvelumallin kuvaus, palveluketjuanalyysi tai palvelun prosessikaavio. se on palveluiden kehittämisen menetelmä, jonka avulla pyritään kuvaamaan visuaalisesti palveluun liittyvät osatekijät ja niiden väliset suhteet. Service blueprinttiä voidaan hyödyntää sekä toteutettavan palvelun suunnittelussa että jo olemassa olevan palvelun kehittämisessä.
 
 Palvelun kokonaisvaltaisessa visualisoinnissa tehdään näkyväksi palveluun liittyvät toimijat, monen suuntaiset vuorovaikutussuhteet, yhtä aikaa tapahtuvat toiminnot sekä palveluun liittyvät fyysiset, digitaaliset ja aineettomatkin osatekijät. Service blueprintin vahvuus on, että siinä tehdään näkyväksi sekä käyttäjien että työntekijöiden kohtaamia prosesseja ja niiden välisiä suhteita. Parhaimmillaan se on hyvä työkalu, joka auttaa yritystä havaitsemaan kehityskohteita, palveluprosessien sisäisiä pullonkauloja, tehostamaan monimutkaisia prosesseja ja ennen kaikkea parantamaan käyttäjäkokemusta. Visualisoinnin avulla yritys pystyy hahmottamaan palvelun ko Service blueprintin mahdollistama monipuolinen palvelun tehostaminen ja kehittäminen sekä työntekijä- ja käyttäjätyytyväisyyden nostaminen luonnollisesti avaavat yritykselle mahdollisuuden parantaa palvelun taloudellista hyötyä.konaiskuvaa eli sitä, miten yritys tuottaa palvelua ja miten käyttäjät sitä käyttävät. 
@@ -308,7 +308,7 @@ Service blueprintissä kuvattavat palvelun osatekijät ovat vahvasti kytköksiss
 
 Service blueprinttiin kuvataan palvelun käyttäjän toiminta palvelun aikana mahdollisimman tarkasti eli muodostetaan palvelupolku kontaktipisteineen. Tämän jälkeen lähdetään tarkastelemaan, mitä näissä kontaktipisteissä tapahtuu käyttäjälle näkyvässä (frontstage) ja näkymättömässä (backstage) palveluprosessissa sekä minkälaisia tukitoimintoja nämä prosessit vaativat palvelun eri vaiheissa. Service blueprinttiin kirjataan myös palvelun elementit, joilla on merkitystä palvelussa tapahtuviin prosesseihin joko palveluprosessin etu- tai taka-alalla. Näitä voivat olla esimerkiksi fyysiset ratkaisut, kuten esitteet, opasteet, liput, näytöt, fyysiset ympäristöt ja palautelaatikot, tai digitaaliset ratkaisut, kuten applikaatiot, nettisivut, videot ja verkkofoorumit. Service blueprinttiin voidaan tehdä myös näkyväksi erilaisia tunnekokemuksia siitä, mitä esimerkiksi palvelun käyttäjä tai palvelua tuottava henkilökunta kokee.
 
-# **5.1 Prosessin useita muotoja**
+## **5.1 Prosessin useita muotoja**
 
 Palvelumuotoilun prosessi ei ole lineaarista vaan iteratiivista toimintaa. Iteratiivisuudella viitataan prosessiin, jossa on mahdollisuus palata takaisin edellisiin vaiheisiin ja tehdä prosessin osia useampaan kertaan
 
@@ -333,7 +333,7 @@ British Design Councilin vuonna 2004 lanseeraama tuplatimanttimalli _(Double dia
 
 Tuplatimantin suunnitteluperiaatteissa painottuu palvelua käyttävien ihmisten tarpeiden, vahvuuksien ja toiveiden ymmärtäminen. Lisäksi niiden avulla voidaan muodostaa yhteinen ymmärrys todellisesta suunnittelukohteesta ja jakaa ajatuksia ja ideoita. Suunnitteluperiaatteissa korostuu myös yhteiskehittäminen ja muiden ajatuksista ja toiminnasta inspiroituminen. Tuplatimantin suunnitteluperiaatteissa nojataan vahvasti iteratiiviseen toimintamalliin, jossa pyritään tunnistamaan virheet mahdollisimman aikaisessa vaiheessa. Näin voidaan minimoida riskejä ja saada varmuutta suunnitteluratkaisuille.
 
-# **5.2 Tuplatimanttiprosessimalli**
+## **5.2 Tuplatimanttiprosessimalli**
 
 **1. Löydä, discover**. Ensimmäisessä vaiheessa pyritään löytämään suunnitteluhaaste sekä kartoittamaan mahdollisuudet, ongelmat ja tarpeet. Ensimmäisen timantin Ne tulee huomioida koko suunnittelun ajan ja samalla tulee määrittää joitain suunnittelua rajaavia reunaehtoja. Ensimmäisessä vaiheessa rakennetaan rikas tietopohja suunnittelulle tunnistamalla palvelun kontekstia, käyttäjätarpeita sekä palveluntarjoajan liiketoiminnallisia tavoitteita ja reunaehtoja.
 
@@ -373,7 +373,7 @@ Koska palvelukonsepteja ei aina pystytä testaamaan niiden oikeassa ympäristös
 
 **4.Tuota, deliver** vaiheessa** painotus on pyrkiä rajaamaan ja tunnistamaan edellisessä vaiheessa syntyneistä ideoista ne vaihtoehdot, jotka vastaavat edellisissä vaiheissa tunnistettuihin tarpeisiin ja asetettuihin tavoitteisiin. Tässä vaiheessa konseptit viedään lopulliseen testaukseen, ja niitä testataan loppukäyttäjien, henkilökunnan ja muiden sidosryhmien kanssa. Tärkeää on myös analysoida näitä loppuvaiheen konsepteja teknisen toteutettavuuden ja taloudellisen kannattavuuden näkökulmista. Tavoitteena on, että vaiheen lopuksi tuotetaan palvelusta määritelty idea tai konsepti, jonka pohjalta pystytään tekemään päätös luodun ratkaisun tuotantoon viemisestä.
 
-# **5.3 Mitä tapahtuu tuplatimanttiprosessin jälkeen?**
+## **5.3 Mitä tapahtuu tuplatimanttiprosessin jälkeen?**
 
 Tuplatimantti prosessi on iteratiivinen, ja aiempiin vaiheisiin voidaan aina palata ja yksittäistä vaihetta voidaan toistaa, jotta saavutetaan toimiva lopputulos. lopputuloksena voi syntyä palvelukonsepti, joka päätetään hylätä, tai toisaalta palvelukonsepti, josta voidaan todeta, että tuotetussa ratkaisussa on hyviä elementtejä toteutettaviksi, mutta se vaatii vielä hiontaa. Tällöin palataan timantin alkupäähän. Huomionarvoista kuitenkin on, että edellisessä prosessissa idea on jo jalostunut eikä prosessia tarvitse aloittaa puhtaalta pöydältä. Tässä on juuri iteratiivisen prosessin ydin, eli se on itseään toistava mutta kehittyvä, jolloin prosessin tulos on aina edellistä hioutuneempi.
 
@@ -389,7 +389,7 @@ Palveluntuottajan näkökulmasta on tärkeää huomioida, että uuden palvelukon
 
 Palvelukehitys on kiinteä osa organisaation toiminnan kehittämistä. Tämä vaatii usein muutosprosessia, joka edellyttää työntekijöiden, organisaatiojohdon ja muiden sidosryhmien tiivistä sitoutumista, jotta palveluratkaisut voidaan toteuttaa halutulla tavalla. Palvelumuotoilijalle tämä prosessi merkitsee yhteistyön fasilitoimista, eri sidosryhmien tarpeiden ymmärtämistä ja huomioonottamista osana muutosprosessia, sekä palveluratkaisun sijoittamista osaksi organisaation toimintaa.
 
-# **6.1 Työpajan päääelementit**
+## **6.1 Työpajan päääelementit**
 
 Yhteiskehittämisellä saadaan esimerkiksi otettua mukaan suunnitteluun sellaisia sidosryhmiä, jotka eivät välttämättä muuten voisi osallistua palvelumuotoilun prosessiin laajemmassa mittakaavassa. Usein yhteiskehittämistä toteutetaan erilaisten työpajojen muodossa. Palvelumuotoilua opeteltaessa on siis syytä myös paneutua työpajojen toteutukseen, jotta työtavasta tulee itselle luontevaa.
 
@@ -568,7 +568,7 @@ Viimeisessä vaiheessa viedään edellisen vaiheen tuotoksena syntynyt prototyyp
 Tuote on jo jollain tapaa käytössä ja sitä halutaan parantaa. Fokus oltaa selkeä, esim testaaminen. 
 
 **2.11.2022 
-# **7.1 Digitalisaatio**
+## **7.1 Digitalisaatio**
 
 Palveluiden kontekstissa digitalisaatio liitetään usein siirtymiseen fyysisistä palveluista palveluelementtien tarjoamiseen digitaalisten kanavien kautta. Digitalisaatio ei silti välttämättä tarkoita ihmisten välisen kommunikaation korvaamista digitaalisilla palvelukanavilla, kuten mobiilisovellutuksilla ja verkkoon sijoittuvilla itsepalveluratkaisuilla. Sen sijaan niin sanotut monikanavaiset palvelut, jotka yhdistävät fyysistä palvelua digitaaliseen palveluun, voivat mahdollistaa asiakkaiden kohtaamisen kattavimmin.
 
@@ -580,7 +580,7 @@ haetaan paitsi toiminnan tehostamista ja prosessien automatisointia, myös laaje
 
 Palvelukehityksessä digitalisaatio näkyy erilaisten teknologioiden käyttöönotossa niin palvelun kontaktipisteiden toteutuksessa kuin palvelun taustajärjestelmissä. Digitalisaatiolla on myös vaikutuksensa palvelumuotoilutoimintaan, sillä sekä muotoilutyökalut kuin palvelumuotoiluprosessin läpivieminen sisältävät usein digitaalisten työkalujen hyödyntämistä.
 
-# **7.2 Digitaalisuus osana palvelua**
+## **7.2 Digitaalisuus osana palvelua**
 
 Palvelu harvoin toteutuu vain yhden kontaktipisteen kautta vaan ne muodostuvat monen erilaisista elementeistä, joten variaatioita palvelujen toteutukseen on monia. Palvelupolkuun voidaan sisällyttää palvelukanavia, jotka mahdollistavat vaihtoehtoisia tapoja tarjota palvelua asiakkaille. Tällöin digitaaliset palveluratkaisut voivat joko toimia omana palvelukanavanaan, tai digiratkaisu on rakennettu osaksi laajempaa
 
@@ -610,7 +610,7 @@ Palveluiden digitaalisuus mahdollistaa monimuotoisten palveluekosysteemien muodo
 
 *Yhtenä mahdollisena skenaariona älyjääkaappi voi tunnistaa puuttuvat tuotteet ja viedä ne asiakkaan mobiililaitteen ruokaostoslistaan. Lista puolestaan latautuu suoraan ruokakaupan verkkokaupan ostoskoriin ehdotukseksi, jonka asiakas voi käydä hyväksymässä ja tilaamassa. Maksu tapahtuu suoraan asiakkaan tililtä, ja ruokaostokset kuljetetaan asiakkaan kotiovelle.*
 
-# **7.3 Digitaalisuus osana palvelumuotoiluprosessia**
+## **7.3 Digitaalisuus osana palvelumuotoiluprosessia**
 
 ***LÖYDÄ, MÄÄRITTELE, KEHITÄ, TUOTA***
 
@@ -640,7 +640,7 @@ Tuoko teknologia haasteita. Useampia huomioitavia asioita muotoilussa, mutta ava
 
 Edistyneiden teknologioiden kuten koneoppimisen hyödyntäminen osana palvelua vaatii asiakasdatan sijaan opetusdataa palvelun toimintoja varten!   
 
-# **8.1 Tarpeet palvelumuotoilun hyödyntämiselle organisaatiossa**
+## **8.1 Tarpeet palvelumuotoilun hyödyntämiselle organisaatiossa**
 Palvelumuotoilun hyödyntämistä varten organisaatioissa tulisi olla johtotasolla ymmärrys siitä, mitä palvelumuotoilu on*, missä ja milloin siitä on hyötyä, millä tasoilla sitä voi hyödyntää ja miten esimerkiksi loppukäyttäjän rooli vaikuttaa palveluiden kokemiseen*. Yritys- ja organisaatiokontekstissa *loppukäyttäjällä* tarkoitetaan tuotteen tai palvelun käyttäjää, kun taas *asiakkaalla* viitataan esimerkiksi organisaation sisäistä henkilöä tai ryhmää, tai toista organisaatiota.
 
 Palvelumuotoiluun voi vaikuttaa esimerkiksi organisaation koko ja sen siiloutuneet rakenteet, palveluiden kompleksisuus, palveluhaasteen rajaaminen organisaation palvelukontekstista, se, onko kyseessä julkinen vai yksityinen organisaatio, tai kehittämiseen osallistuvan sidosryhmän koko. Ensiarvoisen tärkeäksi tulee myös muotoiluhaasteen rajaaminen tarpeeksi selkeästi, sillä usein organisaatioissa on monitahoisia palvelukonteksteja, joissa on useammassa kohdassa tarvetta palvelukehitykselle.
@@ -661,7 +661,7 @@ Asiakkaan roolin muutos vaikuttaa palveluiden luonteeseen ja siihen, miten niit�
 
 [Jyrämä, A. & Mattelmäki, T. (eds.) (2015). Palvelumuotoilu saapuu verkostojen kaupunkiin. Aalto-yliopisto. Saatavilla:](<https://shop.aalto.fi/media/filer_public/48/47/484746bf-4a1f-4f8e-9370-2d22c36b2cab/palvelumuotoilu.pdf>)   
 
-# **8.2 Palvelumuotoilun sijoittuminen organisaatioon**   
+## **8.2 Palvelumuotoilun sijoittuminen organisaatioon**   
 
 Palvelumuotoilun hyödyntämiselle on monia eri syitä, ja niin myös palvelumuotoilun sijoittumisessa organisaatioon on monia variaatioita. Palvelumuotoilua voi tehdä sekä yrityksen sisällä työskentelevä palvelumuotoilija että yrityksen ulkopuolinen konsultti. Kummassakin tavassa on puolensa, ja niiden tunnistamisesta on etua tuloksien saavuttamisessa. Siinä, missä yrityksen sisällä oleva palvelumuotoilija tuntee hyvin organisaation, sen sidosryhmän ja toiminnan, voi siitä olla jopa haittaa, sillä omaan työhön voi olla vaikea saada etäisyyttä. Ulkopuolinen konsultti voi taas tuoda uutta ja raikasta näkökulmaa asioihin, mutta ei välttämättä ymmärrä syvempiä syy-yhteyksiä organisaation toiminnassa. Uuden näkökulman takia voi ajoittain olla hyödyllistä hankkia ulkopuolista konsultointiapua, vaikka organisaatiossa olisi oma palvelumuotoilija.
 Video: In-house vs konsultti palvelumuotoilu: Konsulttipalvelut aika rajattuja keissejä, jotka on jossain tietyssä vaiheessa isompaa prosessia. In house skaala voi olla paljon laajempi tai keskitytään jonkin osaston tai koko yrityksen toimintaan kattava näkökulma ja laaja skaala. 
@@ -708,7 +708,7 @@ Muotoilun maturiteettiaste on suhteessa myös siihen, miten palvelumuotoilu näk
 
 Jos asiaa tarkastellaan organisaation näkökulmasta, palvelumuotoilun vakiinnuttaminen läpileikkaavaksi toiminnaksi ei tapahdu hetkessä. Palvelumuotoiluun on helpompi lähteä tutustumaan pienin askelin lisäten sen laajuutta ja käyttöä. Ensimmäinen askel on kiinnostuksen herääminen, josta on helppo lähteä kokeilemaan esimerkiksi konsultaationa yksittäisiä palvelumuotoiluprojekteja, joissa projekti on vielä hyvin rajattu. Seuraavana askelmana on lähteä kehittämään sisäistä osaamista ja omistajuuden vahvistamista kouluttamalla henkilökuntaa tai rekrytoimalla alan asiantuntijoita. Tulee ymmärtää, millaiseen rooliin ensimmäinen in-house-palvelumuotoilija tulee, sillä hän voi toiminnallaan viedä organisaation maturiteettiastetta eteenpäin ja toiminta vaatii vahvaa palvelumuotoilun eteenpäin viemistä. Neljännellä askelmalla organisaatiossa hyödynnetään jo laajemmin palvelumuotoilua ja kasvatetaan sen käyttöä useampiin yksiköihin. Viimeisenä on palvelumuotoilun vakiintuminen organisaation läpileikkaavaksi ajattelu- ja toimintatavaksi.   
 
-# **8.3 Palvelumuotoilu julkisella ja yksityisellä sektorilla**
+## **8.3 Palvelumuotoilu julkisella ja yksityisellä sektorilla**
 Julkisella ja yksityisellä sektorilla on huomattavan paljon samankaltaisuuksia. Niiden on kehitettävä toimintaansa ja palveluitaan palvellakseen asiakkaitaan heidän tarpeensa täyttävällä tavalla ja kokonaisvaltaisesti tuottaakseen olemassa olevilla resursseilla tilanteeseen sopivaa tehokasta, käytännöllistä ja tavoitellun kokemuksen tuottavaa palvelua. Tämä on lainalaisuus organisaatioiden olemassaolon ja toiminnan kannalta niin yksityisellä kuin julkisella sektorilla. Palveluiden luonteesta on huomioitava juuri niiden jatkuva muuttuminen. Maailma muuttuu ajan myötä, mikä vaikuttaa suoraan myös palveluiden tuottamiseen ja muutostarpeeseen, jolloin jonkin palvelun täysin valmiiksi saaminen ei ole realistinen vaihtoehto.
 
 Julkisella sektorilla ei kuitenkaan ole resursseja palvelukehitykseen samalla tasolla kuin yksityisellä sektorilla, kun verrataan kehittämiskapasiteettia käyttäjäkunnan laajuuteen. In-house-palvelumuotoilijat julkisella sektorilla voivat tuoda samanlaista vakautta organisaation muotoiluosaamiseen ja -kapasiteettiin kuin yksityisen sektorin organisaatioissakin. Palvelumuotoilun osaamisella voidaan muodostaa kokonaisvaltainen käsitys palvelutarjoomasta ja käyttäjien palvelutarpeista. Kun nämä eivät kohtaa, on palvelukehitykselle selkeä tarve ja kohde.
