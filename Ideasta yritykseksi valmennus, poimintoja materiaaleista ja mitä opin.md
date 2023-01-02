@@ -44,7 +44,7 @@ Matriisin tekeminen:
 -	Tuotteen kyky tuoda kassavirtaa yritykseen   
 
 ## 16.11.2022   
-#3 Markkina-analyysi ja ostokriteerit   
+## Markkina-analyysi ja ostokriteerit   
 
 Alan kokonaismarkkinalla tarkoitetaan tuotteesta/palvelusta maksavien
 asiakkaiden ostotapahtumien määrää (kpl) sekä niiden muodostamaa
@@ -104,7 +104,7 @@ Markkina-analyysissä selvitetään mm. seuraavia asioita:
 •	Millaisia asiakkaiden tarpeet, toiveet, arvot, elämäntyylit, osto- ja kulutustottumukset ovat? 
 •	Onko asiakkaiden ostokäyttäytyminen muuttumassa?   
 
-#3 18.11.2022
+## 18.11.2022
 ## Kilpailija-analyysi   
 Suorat kilpailijat:
 Välilliset kilpailijat: 
@@ -152,7 +152,7 @@ Tavoitetulos
 Myynti tavoite pv/tunti.
 
 
-#3 2.12.2022
+## 2.12.2022
 ## Myynnin ja markkinoinnin suunnittelu
 
 
