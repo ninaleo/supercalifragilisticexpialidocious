@@ -4,12 +4,12 @@ Ajantasainen työajanseuranta projektin alusta alkaen löytyy excelistä. Seuran
 
 Alla sprinttikohtainen luettelo, jossa valitsemaasi sprinttiä klikkaamalla pääset tutustumaan tarkemmin sen sisältöön.   
 **"Aikataulu"-kohdassa** viikkosuunnitelma kyseiselle ajankohdalle.   
-**"Mitä tein"-kohdassa** kerron lyhyesti päivän päätteeksi mihin aika kului.   
+**"Mitä tein"-kohdassa** kerron lyhyesti päivän päätteeksi mihin aika pääasiassa kului.   
 **"Mitä opin"-kohdassa** kerron mitä kyseisinä päivinä olen oppinut.   
 
 Päivitän sisältöä jatkuvasti.
 
-Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/)   
+Lisäksi verkossa on pieni "projektisivu", jossa on lyhyt kuvaus ajatuksistani ennen työssäoppimisjaksoa ja suunnitelmani siitä, mitä aion jakson aikana tehdä. Valikosta pääsee tutustumaan myös valitsemieni kurssien kuvauksiin. [Sivulle pääset tästä](https://service-design.pages.labranet.jamk.fi/supercalifragilisticexpialidocious/). Tähän en panostanut kovinkaan paljoa vaan tein sitä hieman omaksi ilokseni.   
 
 
 | | | | 
